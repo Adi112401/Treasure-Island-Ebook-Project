@@ -65,7 +65,7 @@ I remember him as if it were yesterday, as he came plodding to the inn door, his
 > "Fifteen men on the dead man's chest--<br/>
       Yo-ho-ho, and a bottle of rum!"
       
-![image](plate4.jpeg)
+![image](plate4.jpg)
 
 in the high, old tottering voice that seemed to have been tuned and broken at the capstan bars.  Then he rapped on the door with a bit of stick like a handspike that he carried, and when my father appeared, called roughly for a glass of rum.  This, when it was brought to him, he drank slowly, like a connoisseur, lingering on the taste and still looking about him at the cliffs and up at our signboard.
 

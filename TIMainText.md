@@ -60,13 +60,13 @@ treasure island
 
 Squire Trelawney, Dr. Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen in the year of grace 17__ and go back to the time when my father kept the Admiral Benbow inn and the brown old seaman with the sabre cut first took up his lodging under our roof.
 
+![](plate4.jpg)
+
 I remember him as if it were yesterday, as he came plodding to the inn door, his sea-chest following behind him in a hand-barrow--a tall, strong, heavy, nut-brown man, his tarry pigtail falling over the shoulder of his soiled blue coat, his hands ragged and scarred, with black, broken nails, and the sabre cut across one cheek, a dirty, livid white.  I remember him looking round the cover and whistling to himself as he did so, and then breaking out in that old sea-song that he sang so often afterwards:
 
 > "Fifteen men on the dead man's chest--<br/>
       Yo-ho-ho, and a bottle of rum!"
       
-![image](plate4.jpg)
-
 in the high, old tottering voice that seemed to have been tuned and broken at the capstan bars.  Then he rapped on the door with a bit of stick like a handspike that he carried, and when my father appeared, called roughly for a glass of rum.  This, when it was brought to him, he drank slowly, like a connoisseur, lingering on the taste and still looking about him at the cliffs and up at our signboard.
 
 "This is a handy cove," says he at length; "and a pleasant sittyated grog-shop.  Much company, mate?"
@@ -381,6 +381,8 @@ But the blind man swore at them again for their delay.
 
 I could hear their feet rattling up our old stairs, so that the house must have shook with it.  Promptly afterwards, fresh sounds of astonishment arose; the window of the captain's room was thrown open with a slam and a jingle of broken glass, and a man leaned out into the moonlight, head and shoulders, and addressed the blind beggar on the road below him.
 
+![](plate6.jpg)
+
 "Pew," he cried, "they've been before us.  Someone's turned the chest out alow and aloft."
 
 "Is it there?" roared Pew.
@@ -686,6 +688,8 @@ One of the others who was nearest the door leaped up and started in pursuit.
 
 The man whom he called Morgan--an old, grey-haired, mahogany-faced sailor--came forward pretty sheepishly, rolling his quid.
 
+![](plate8.jpg)
+
 "Now, Morgan," said Long John very sternly, "you never clapped your eyes on that Black--Black Dog before, did you, now?"
 
 "Not I, sir," said Morgan with a salute.
@@ -905,6 +909,8 @@ But there we were, without a mate; and it was necessary, of course, to advance o
 He was a great confidant of Long John Silver, and so the mention of his name leads me on to speak of our ship's cook, Barbecue, as the men called him.
 
 Aboard ship he carried his crutch by a lanyard round his neck, to have both hands as free as possible.  It was something to see him wedge the foot of the crutch against a bulkhead, and propped against it, yielding to every movement of the ship, get on with his cooking like someone safe ashore.  Still more strange was it to see him in the heaviest of weather cross the deck.  He had a line or two rigged up to help him across the widest spaces--Long John's earrings, they were called; and he would hand himself from one place to another, now using the crutch, now trailing it alongside by the lanyard, as quickly as another man could walk.  Yet some of the men who had sailed with him before expressed their pity to see him so reduced.
+
+![](plate10.jpg)
 
 "He's no common man, Barbecue," said the coxswain to me.  "He had good schooling in his young days and can speak like a book when so minded; and brave--a lion's nothing alongside of Long John!  I seen him grapple four and knock their heads together--him unarmed."
 
@@ -1517,6 +1523,8 @@ Trelawney was as cool as steel.  He looked to the priming of his gun.
 
 The squire raised his gun, the rowing ceased, and we leaned over to the other side to keep the balance, and all was so nicely contrived that we did not ship a drop.
 
+![](plate12.jpg)
+
 They had the gun, by this time, slewed round upon the swivel, and Hands, who was at the muzzle with the rammer, was in consequence the most exposed.  However, we had no luck, for just as Trelawney fired, down he stooped, the ball whistled over him, and it was one of the other four who fell.
 
 The cry he gave was echoed not only by his companions on board but by a great number of voices from the shore, and looking in that direction I saw the other pirates trooping out from among the trees and tumbling into their places in the boats.
@@ -1900,6 +1908,8 @@ The boarders swarmed over the fence like monkeys. Squire and Gray fired again an
 Two had bit the dust, one had fled, four had made good their footing inside our defences, while from the shelter of the woods seven or eight men, each evidently supplied with several muskets, kept up a hot though useless fire on the log-house.
 
 The four who had boarded made straight before them for the building, shouting as they ran, and the men among the trees shouted back to encourage them.  Several shots were fired, but such was the hurry of the marksmen that not one appears to have taken effect.  In a moment, the four pirates had swarmed up the mound and were upon us.
+
+![](plate14.jpg)
 
 The head of Job Anderson, the boatswain, appeared at the middle loophole.
 
@@ -2299,6 +2309,8 @@ Seeing that I meant to dodge, he also paused; and a moment or two passed in fein
 Well, while things stood thus, suddenly the *Hispaniola* struck, staggered, ground for an instant in the sand, and then, swift as a blow, canted over to the port side till the deck stood at an angle of forty-five degrees and about a puncheon of water splashed into the scupper holes and lay, in a pool, between the deck and bulwark.
 
 We were both of us capsized in a second, and both of us rolled, almost together, into the scuppers, the dead red-cap, with his arms still spread out, tumbling stiffly after us.  So near were we, indeed, that my head came against the coxswain's foot with a crack that made my teeth rattle.  Blow and all, I was the first afoot again, for Hands had got involved with the dead body.  The sudden canting of the ship had made the deck no place for running on; I had to find some new way of escape, and that upon the instant, for my foe was almost touching me.  Quick as thought, I sprang into the mizzen shrouds, rattled up hand over hand, and did not draw a breath till I was seated on the cross-trees.
+
+![](plate15.jpg)
 
 I had been saved by being prompt; the dirk had struck not half a foot below me as I pursued my upward flight; and there stood Israel Hands with his mouth open and his face upturned to mine, a perfect statue of surprise and disappointment.
 
@@ -3005,6 +3017,8 @@ The next morning we fell early to work, for the transportation of this great mas
 Therefore the work was pushed on briskly.  Gray and Ben Gunn came and went with the boat, while the rest during their absences piled treasure on the beach.  Two of the bars, slung in a rope's end, made a good load for a grown man--one that he was glad to walk slowly with. For my part, as I was not much use at carrying, I was kept busy all day in the cave packing the minted money into bread-bags.
 
 It was a strange collection, like Billy Bones's hoard for the diversity of coinage, but so much larger and so much more varied that I think I never had more pleasure than in sorting them.  English, French, Spanish, Portuguese, Georges, and Louises, doubloons and double guineas and moidores and sequins, the pictures of all the kings of Europe for the last hundred years, strange Oriental pieces stamped with what looked like wisps of string or bits of spider's web, round pieces and square pieces, and pieces bored through the middle, as if to wear them round your neck--nearly every variety of money in the world must, I think, have found a place in that collection; and for number, I am sure they were like autumn leaves, so that my back ached with stooping and my fingers with sorting them out.
+
+![](plate16.jpg)
 
 Day after day this work went on; by every evening a fortune had been stowed aboard, but there was another fortune waiting for the morrow; and all this time we heard nothing of the three surviving mutineers.
 

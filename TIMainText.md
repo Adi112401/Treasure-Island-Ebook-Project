@@ -573,13 +573,13 @@ It was longer than the squire imagined ere we were ready for the sea, and none o
 
 So the weeks passed on, till one fine day there came a letter addressed to Dr. Livesey, with this addition, "To be opened, in the case of his absence, by Tom Redruth or young Hawkins."  Obeying this order, we found, or rather I found--for the gamekeeper was a poor hand at reading anything but print--the following important news:
 
-> *Old Anchor Inn, Bristol, March 1, 17--*
+> <blockquote class="letter"> *Old Anchor Inn, Bristol, March 1, 17--*</blockquote>
 
-> Dear Livesey--As I do not know whether you are at the hall or still in London, I send this in double to both places.
+> <blockquote class="letter"> Dear Livesey--As I do not know whether you are at the hall or still in London, I send this in double to both places.</blockquote>
 
-> The ship is bought and fitted.  She lies at anchor, ready for sea.  You never imagined a sweeter schooner--a child might sail her--two hundred tons; name, *Hispaniola*.
+> <blockquote class="letter"> The ship is bought and fitted.  She lies at anchor, ready for sea.  You never imagined a sweeter schooner--a child might sail her--two hundred tons; name, *Hispaniola*.</blockquote>
 
-> I got her through my old friend, Blandly, who has proved himself throughout the most surprising trump.  The admirable fellow literally slaved in my interest, and so, I may say, did everyone in Bristol, as soon as they got wind of the port we sailed for--treasure, I mean. 
+> <blockquote class="letter"> I got her through my old friend, Blandly, who has proved himself throughout the most surprising trump.  The admirable fellow literally slaved in my interest, and so, I may say, did everyone in Bristol, as soon as they got wind of the port we sailed for--treasure, I mean.</blockquote>
 
 "Redruth," said I, interrupting the letter, "Dr. Livesey will not like that.  The squire has been talking, after all."
 

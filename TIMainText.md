@@ -3,8 +3,6 @@ Treasure Island by Robert Louis Stevenson
 
 
 
-<span class="caps">treasure island</span>
-
                                To
                              S.L.O.,
                       an American gentleman
@@ -18,7 +16,7 @@ Treasure Island by Robert Louis Stevenson
 
 
 
-<span class="caps">to the hesitating purchaser</span>
+### To the Hesitating Purchaser
 
           If sailor tales to sailor tunes,
              Storm and adventure, heat and cold,

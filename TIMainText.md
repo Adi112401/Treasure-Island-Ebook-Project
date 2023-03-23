@@ -1,9 +1,20 @@
+---
+title: Treasure Island
+author: Robert Louis Stevenson
+publisher: Pirate Press
+cover-image: plate1.jpg
+date: 2023
+lang: "en"
+---
+
+
+
 Treasure Island by Robert Louis Stevenson
 
 
 
 
-<blockquote class="verse">To<br/>
+<p class="dedication">To<br/>
 S.L.O.,<br/>
 an American gentleman<br/>
 in accordance with whose classic taste<br/>
@@ -11,12 +22,10 @@ the following narrative has been designed,<br/>
 it is now, in return for numerous delightful hours,<br/>
 and with the kindest wishes,<br/>
 dedicated<br/>
-by his affectionate friend, the author.</blockquote>
+by his affectionate friend, the author.</p>
 
 
-
-
-### To the Hesitating Purchaser
+<p class="dedication" style="font-weight: bold;">To the Hesitating Purchaser</p>
 
 <blockquote class="verse">If sailor tales to sailor tunes,<br/>
 Storm and adventure, heat and cold,<br/>
@@ -32,7 +41,7 @@ If studious youth no longer crave,<br/>
 His ancient appetites forgot,<br/>
 Kingston, or Ballantyne the brave,<br/>
 Or Cooper of the wood and wave:<br/>
-So be it, also!  And may I <br/>
+So be it, also!  And may I<br/>
 And all my pirates share the grave<br/>
 Where these and their creations lie!</blockquote>
 
@@ -40,18 +49,16 @@ Where these and their creations lie!</blockquote>
 
 
 
-# Part 1<br/>The Old Buccaneer
+# Part 1<br/> The Old Buccaneer
 
 
+## Chapter 1<br/> The Old Sea-dog at the Admiral Benbow
 
-## 1
-
-### The Old Sea-dog at the Admiral Benbow
 
 
 <p class="first">Squire Trelawney, Dr. Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen in the year of grace 17__ and go back to the time when my father kept the Admiral Benbow inn and the brown old seaman with the sabre cut first took up his lodging under our roof.</p>
 
-![](plate4.jpg)
+![](plate4.jpg "")
 
 I remember him as if it were yesterday, as he came plodding to the inn door, his sea-chest following behind him in a hand-barrow--a tall, strong, heavy, nut-brown man, his tarry pigtail falling over the shoulder of his soiled blue coat, his hands ragged and scarred, with black, broken nails, and the sabre cut across one cheek, a dirty, livid white.  I remember him looking round the cover and whistling to himself as he did so, and then breaking out in that old sea-song that he sang so often afterwards:
 
@@ -103,9 +110,7 @@ Soon after, Dr. Livesey's horse came to the door and he rode away, but the capta
 
 
 
-## 2
-
-### Black Dog Appears and Disappears
+## Chapter 2<br/> Black Dog Appears and Disappears
 
 
 <p class="first">It was not very long after this that there occurred the first of the mysterious events that rid us at last of the captain, though not, as you will see, of his affairs.  It was a bitter cold winter, with long, hard frosts and heavy gales; and it was plain from the first that my poor father was little likely to see the spring.  He sank daily, and my mother and I had all the inn upon our hands, and were kept busy enough without paying much regard to our unpleasant guest.</p>
@@ -208,9 +213,7 @@ And with that he went off to see my father, taking me with him by the arm.
 
 
 
-## 3
-
-### The Black Spot
+## Chapter 3<br/> The Black Spot
 
 <p class="first">About noon I stopped at the captain's door with some cooling drinks and medicines.  He was lying very much as we had left him, only a little higher, and he seemed both weak and excited.</p>
 
@@ -290,9 +293,7 @@ I ran to him at once, calling to my mother.  But haste was all in vain.  The cap
 
 
 
-## 4
-
-### The Sea-chest
+## Chapter 4<br/> The Sea-chest
 
 <p class="first">I lost no time, of course, in telling my mother all that I knew, and perhaps should have told her long before, and we saw ourselves at once in a difficult and dangerous position.  Some of the man's money--if he had any--was certainly due to us, but it was not likely that our captain's shipmates, above all the two specimens seen by me, Black Dog and the blind beggar, would be inclined to give up their booty in payment of the dead man's debts.  The captain's order to mount at once and ride for Doctor Livesey would have left my mother alone and unprotected, which was not to be thought of.  Indeed, it seemed impossible for either of us to remain much longer in the house; the fall of coals in the kitchen grate, the very ticking of the clock, filled us with alarms.  The neighbourhood, to our ears, seemed haunted by approaching footsteps; and what between the dead body of the captain on the parlour floor and the thought of that detestable blind beggar hovering near at hand and ready to return, there were moments when, as the saying goes, I jumped in my skin for terror.  Something must speedily be resolved upon, and it occurred to us at last to go forth together and seek help in the neighbouring hamlet. No sooner said than done.  Bare-headed as we were, we ran out at once in the gathering evening and the frosty fog.</p>
 
@@ -352,9 +353,7 @@ This was certainly the end for both of us, I thought. How I cursed the cowardice
 
 
 
-## 5
-
-### The Last of the Blind Man
+## Chapter 5<br/> The Last of the Blind Man
 
 <p class="first">My curiosity, in a sense, was stronger than my fear, for I could not remain where I was, but crept back to the bank again, whence, sheltering my head behind a bush of broom, I might command the road before our door.  I was scarcely in position ere my enemies began to arrive, seven or eight of them, running hard, their feet beating out of time along the road and the man with the lantern some paces in front.  Three men ran together, hand in hand; and I made out, even through the mist, that the middle man of this trio was the blind beggar.  The next moment his voice showed me that I was right.</p>
 
@@ -446,9 +445,7 @@ As soon as I was mounted, holding on to Dogger's belt, the supervisor gave the w
 
 
 
-## 6
-
-### The Captain's Papers
+## Chapter 6<br/> The Captain's Papers
 
 <p class="first">We rode hard all the way till we drew up before Dr. Livesey's door.  The house was all dark to the front.</p>
 
@@ -557,13 +554,11 @@ That was all; but brief as it was, and to me incomprehensible, it filled the squ
 
 
 
-# Part 2<br/>The Sea-cook
+# Part 2<br/> The Sea-cook
 
 
 
-## 7
-
-### I Go to Bristol
+## Chapter 7<br/> I Go to Bristol
 
 <p class="first">It was longer than the squire imagined ere we were ready for the sea, and none of our first plans--not even Dr. Livesey's, of keeping me beside him--could be carried out as we intended.  The doctor had to go to London for a physician to take charge of his practice; the squire was hard at work at Bristol; and I lived on at the hall under the charge of old Redruth, the gamekeeper, almost a prisoner, but full of sea-dreams and the most charming anticipations of strange islands and adventures.  I brooded by the hour together over the map, all the details of which I well remembered. Sitting by the fire in the housekeeper's room, I approached that island in my fancy from every possible direction; I explored every acre of its surface; I climbed a thousand times to that tall hill they call the Spy-glass, and from the top enjoyed the most wonderful and changing prospects.  Sometimes the isle was thick with savages, with whom we fought, sometimes full of dangerous animals that hunted us, but in all my fancies nothing occurred to me so strange and tragic as our actual adventures.</p>
 
@@ -635,9 +630,7 @@ While I was still in this delightful dream, we came suddenly in front of a large
 
 
 
-## 8
-
-### At the Sign of the Spy-glass
+## Chapter 8<br/> At the Sign of the Spy-glass
 
 <p class="first">When I had done breakfasting the squire gave me a note addressed to John Silver, at the sign of the Spy-glass, and told me I should easily find the place by following the line of the docks and keeping a bright lookout for a little tavern with a large brass telescope for sign.  I set off, overjoyed at this opportunity to see some more of the ships and seamen, and picked my way among a great crowd of people and carts and bales, for the dock was now at its busiest, until I found the tavern in question.</p>
 
@@ -737,9 +730,7 @@ The two gentlemen regretted that Black Dog had got away, but we all agreed there
 
 
 
-## 9
-
-### Powder and Arms
+## Chapter 9<br/> Powder and Arms
 
 <p class="first">The *Hispaniola* lay some way out, and we went under the figureheads and round the sterns of many other ships, and their cables sometimes grated underneath our keel, and sometimes swung above us.  At last, however, we got alongside, and were met and saluted as we stepped aboard by the mate, Mr. Arrow, a brown old sailor with earrings in his ears and a squint.  He and the squire were very thick and friendly, but I soon observed that things were not the same between Mr. Trelawney and the captain.</p>
 
@@ -859,9 +850,7 @@ I assure you I was quite of the squire's way of thinking, and hated the captain 
 
 
 
-## 10
-
-### The Voyage
+## Chapter 10<br/> The Voyage
 
 <p class="first">All that night we were in a great bustle getting things stowed in their place, and boatfuls of the squire's friends, Mr. Blandly and the like, coming off to wish him a good voyage and a safe return.  We never had a night at the Admiral Benbow when I had half the work; and I was dog-tired when, a little before dawn, the boatswain sounded his pipe and the crew began to man the capstan-bars.  I might have been twice as weary, yet I would not have left the deck, all was so new and interesting to me--the brief commands, the shrill note of the whistle, the men bustling to their places in the glimmer of the ship's lanterns.</p>
 
@@ -935,9 +924,7 @@ In I got bodily into the apple barrel, and found there was scarce an apple left;
 
 
 
-## 11
-
-### What I Heard in the Apple Barrel
+## Chapter 11<br/> What I Heard in the Apple Barrel
 
 <p class="first">"No, not I," said Silver.  "Flint was cap'n; I was quartermaster, along of my timber leg.  The same broadside I lost my leg, old Pew lost his deadlights. It was a master surgeon, him that ampytated me--out of college and all--Latin by the bucket, and what not; but he was hanged like a dog, and sun-dried like the rest, at Corso Castle.  That was Roberts' men, that was, and comed of changing names to their ships--*Royal Fortune* and so on.  Now, what a ship was christened, so let her stay, I says.  So it was with the *Cassandra*, as brought us all safe home from Malabar, after England took the viceroy of the Indies; so it was with the old *Walrus*, Flint's old ship, as I've seen amuck with the red blood and fit to sink with gold."</p>
 
@@ -1019,9 +1006,7 @@ Just then a sort of brightness fell upon me in the barrel, and looking up, I fou
 
 
 
-## 12
-
-### Council of War
+## Chapter 12<br/> Council of War
 
 <p class="first">There was a great rush of feet across the deck.  I could hear people tumbling up from the cabin and the forecastle, and slipping in an instant outside my barrel, I dived behind the fore-sail, made a double towards the stern, and came out upon the open deck in time to join Hunter and Dr. Livesey in the rush for the weather bow.</p>
 
@@ -1115,12 +1100,10 @@ I began to feel pretty desperate at this, for I felt altogether helpless; and ye
 
 
 
-# Part 3<br/>My Shore Adventure
+# Part 3<br/> My Shore Adventure
 
 
-## 13
-
-### How My Shore Adventure Began
+## Chapter 13<br/> How My Shore Adventure Began
 
 <p class="first">The appearance of the island when I came on deck next morning was altogether changed.  Although the breeze had now utterly ceased, we had made a great deal of way during the night and were now lying becalmed about half a mile to the south-east of the low eastern coast. Grey-coloured woods covered a large part of the surface.  This even tint was indeed broken up by streaks of yellow sand-break in the lower lands, and by many tall trees of the pine family, out-topping the others--some singly, some in clumps; but the general colouring was uniform and sad.  The hills ran up clear above the vegetation in spires of naked rock.  All were strangely shaped, and the Spy-glass, which was by three or four hundred feet the tallest on the island, was likewise the strangest in configuration, running up sheer from almost every side and then suddenly cut off at the top like a pedestal to put a statue on.</p>
 
@@ -1182,9 +1165,7 @@ But you may suppose I paid no heed; jumping, ducking, and breaking through, I ra
 
 
 
-## 14
-
-### The First Blow
+## Chapter 14<br/> The First Blow
 
 <p class="first">I was so pleased at having given the slip to Long John that I began to enjoy myself and look around me with some interest on the strange land that I was in.</p>
 
@@ -1250,9 +1231,7 @@ And here a fresh alarm brought me to a standstill with a thumping heart.
 
 
 
-## 15
-
-### The Man of the Island
+## Chapter 15<br/> The Man of the Island
 
 <p class="first">From the side of the hill, which was here steep and stony, a spout of gravel was dislodged and fell rattling and bounding through the trees.  My eyes turned instinctively in that direction, and I saw a figure leap with great rapidity behind the trunk of a pine.  What it was, whether bear or man or monkey, I could in no wise tell.  It seemed dark and shaggy; more I knew not.  But the terror of this new apparition brought me to a stand.</p>
 
@@ -1372,13 +1351,11 @@ Another pause, and then, not a quarter of a mile in front of me, I beheld the Un
 
 
 
-# Part 4<br/>The Stockade
+# Part 4<br/> The Stockade
 
 
 
-## 16
-
-### Narrative Continued by the Doctor: How the Ship Was Abandoned
+## Chapter 16<br/> Narrative Continued by the Doctor: How the Ship Was Abandoned
 
 <p class="first">It was about half past one--three bells in the sea phrase--that the two boats went ashore from the *Hispaniola*.  The captain, the squire, and I were talking matters over in the cabin.  Had there been a breath of wind, we should have fallen on the six mutineers who were left aboard with us, slipped our cable, and away to sea.  But the wind was wanting; and to complete our helplessness, down came Hunter with the news that Jim Hawkins had slipped into a boat and was gone ashore with the rest.</p>
 
@@ -1456,9 +1433,7 @@ We were clear out of the ship, but not yet ashore in our stockade.
 
 
 
-## 17
-
-### Narrative Continued by the Doctor: The Jolly-boat's Last Trip
+## Chapter 17<br/> Narrative Continued by the Doctor: The Jolly-boat's Last Trip
 
 <p class="first">This fifth trip was quite different from any of the others.  In the first place, the little gallipot of a boat that we were in was gravely overloaded.  Five grown men, and three of them--Trelawney, Redruth, and the captain--over six feet high, was already more than she was meant to carry.  Add to that the powder, pork, and bread-bags.  The gunwale was lipping astern. Several times we shipped a little water, and my breeches and the tails of my coat were all soaking wet before we had gone a hundred yards.</p>
 
@@ -1544,9 +1519,7 @@ With all this in our minds, we waded ashore as fast as we could, leaving behind 
 
 
 
-## 18
-
-### Narrative Continued by the Doctor: End of the First Day's Fighting
+## Chapter 18<br/> Narrative Continued by the Doctor: End of the First Day's Fighting
 
 <p class="first">We made our best speed across the strip of wood that now divided us from the stockade, and at every step we took the voices of the buccaneers rang nearer.  Soon we could hear their footfalls as they ran and the cracking of the branches as they breasted across a bit of thicket.</p>
 
@@ -1636,9 +1609,7 @@ And I ran to the door in time to see Jim Hawkins, safe and sound, come climbing 
 
 
 
-## 19
-
-### Narrative Resumed by Jim Hawkins: The Garrison in the Stockade
+## Chapter 19<br/> Narrative Resumed by Jim Hawkins: The Garrison in the Stockade
 
 <p class="first">As soon as Ben Gunn saw the colours he came to a halt, stopped me by the arm, and sat down.</p>
 
@@ -1726,9 +1697,7 @@ And at that, up I jumped, and rubbing my eyes, ran to a loophole in the wall.
 
 
 
-## 20
-
-### Silver's Embassy
+## Chapter 20<br/> Silver's Embassy
 
 <p class="first">Sure enough, there were two men just outside the stockade, one of them waving a white cloth, the other, no less a person than Silver himself, standing placidly by.</p>
 
@@ -1828,9 +1797,7 @@ And with a dreadful oath he stumbled off, ploughed down the sand, was helped acr
 
 
 
-## 21
-
-### The Attack
+## Chapter 21<br/> The Attack
 
 <p class="first">As soon as Silver disappeared, the captain, who had been closely watching him, turned towards the interior of the house and found not a man of us at his post but Gray.  It was the first time we had ever seen him angry.</p>
 
@@ -1940,13 +1907,11 @@ The house was by this time somewhat cleared of smoke, and we saw at a glance the
 
 
 
-# Part 5<br/>My Sea Adventure
+# Part 5<br/> My Sea Adventure
 
 
 
-## 22
-
-### How My Sea Adventure Began
+## Chapter 22<br/> How My Sea Adventure Began
 
 <p class="first">There was no return of the mutineers--not so much as another shot out of the woods.  They had "got their rations for that day," as the captain put it, and we had the place to ourselves and a quiet time to overhaul the wounded and get dinner.  Squire and I cooked outside in spite of the danger, and even outside we could hardly tell what we were at, for horror of the loud groans that reached us from the doctor's patients.</p>
 
@@ -2012,9 +1977,7 @@ The ebb had already run some time, and I had to wade through a long belt of swam
 
 
 
-## 23
-
-### The Ebb-tide Runs
+## Chapter 23<br/> The Ebb-tide Runs
 
 <p class="first">The coracle--as I had ample reason to know before I was done with her--was a very safe boat for a person of my height and weight, both buoyant and clever in a sea- way; but she was the most cross-grained, lop-sided craft to manage.  Do as you pleased, she always made more leeway than anything else, and turning round and round was the manoeuvre she was best at.  Even Ben Gunn himself has admitted that she was "queer to handle till you knew her way."</p>
 
@@ -2076,9 +2039,7 @@ So I must have lain for hours, continually beaten to and fro upon the billows, n
 
 
 
-## 24
-
-### The Cruise of the Coracle
+## Chapter 24<br/> The Cruise of the Coracle
 
 <p class="first">It was broad day when I awoke and found myself tossing at the south-west end of Treasure Island.  The sun was up but was still hid from me behind the great bulk of the Spy-glass, which on this side descended almost to the sea in formidable cliffs.</p>
 
@@ -2140,9 +2101,7 @@ And then, of a sudden, I began to comprehend.  I had scarce time to think--scarc
 
 
 
-## 25
-
-### I Strike the Jolly Roger
+## Chapter 25<br/> I Strike the Jolly Roger
 
 <p class="first">I had scarce gained a position on the bowsprit when the flying jib flapped and filled upon the other tack, with a report like a gun.  The schooner trembled to her keel under the reverse, but next moment, the other sails still drawing, the jib flapped back again and hung idle.</p>
 
@@ -2220,9 +2179,7 @@ I was greatly elated with my new command, and pleased with the bright, sunshiny 
 
 
 
-## 26
-
-### Israel Hands
+## Chapter 26<br/> Israel Hands
 
 <p class="first">The wind, serving us to a desire, now hauled into the west. We could run so much the easier from the north-east corner of the island to the mouth of the North Inlet.  Only, as we had no power to anchor and dared not beach her till the tide had flowed a good deal farther, time hung on our hands. The coxswain told me how to lay the ship to; after a good many trials I succeeded, and we both sat in silence over another meal.</p>
 
@@ -2312,9 +2269,7 @@ I was drinking in his words and smiling away, as conceited as a cock upon a wall
 
 
 
-## 27
-
-### "Pieces of Eight"
+## Chapter 27<br/> "Pieces of Eight"
 
 <p class="first">Owing to the cant of the vessel, the masts hung far out over the water, and from my perch on the cross-trees I had nothing below me but the surface of the bay. Hands, who was not so far up, was in consequence nearer to the ship and fell between me and the bulwarks.  He rose once to the surface in a lather of foam and blood and then sank again for good.  As the water settled, I could see him lying huddled together on the clean, bright sand in the shadow of the vessel's sides.  A fish or two whipped past his body.  Sometimes, by the quivering of the water, he appeared to move a little, as if he were trying to rise.  But he was dead enough, for all that, being both shot and drowned, and was food for fish in the very place where he had designed my slaughter.</p>
 
@@ -2388,13 +2343,11 @@ And one of the men left the log-house and presently returned with a lighted bran
 
 
 
-# Part 6<br/>Captain Silver
+# Part 6<br/> Captain Silver
 
 
 
-## 28
-
-### In the Enemy's Camp
+## Chapter 28<br/> In the Enemy's Camp
 
 <p class="first">The red glare of the torch, lighting up the interior of the block house, showed me the worst of my apprehensions realized.  The pirates were in possession of the house and stores: there was the cask of cognac, there were the pork and bread, as before, and what tenfold increased my horror, not a sign of any prisoner.  I could only judge that all had perished, and my heart smote me sorely that I had not been there to perish with them.</p>
 
@@ -2508,9 +2461,7 @@ And he took another swallow of the brandy, shaking his great fair head like a ma
 
 
 
-## 29
-
-### The Black Spot Again
+## Chapter 29<br/> The Black Spot Again
 
 <p class="first">The council of buccaneers had lasted some time, when one of them re-entered the house, and with a repetition of the same salute, which had in my eyes an ironical air, begged for a moment's loan of the torch.  Silver briefly agreed, and this emissary retired again, leaving us together in the dark.</p>
 
@@ -2600,9 +2551,7 @@ It was long ere I could close an eye, and heaven knows I had matter enough for t
 
 
 
-## 30
-
-### On Parole
+## Chapter 30<br/> On Parole
 
 <p class="first">I was wakened--indeed, we were all wakened, for I could see even the sentinel shake himself together from where he had fallen against the door-post--by a clear, hearty voice hailing us from the margin of the wood:</p>
 
@@ -2712,9 +2661,7 @@ And Dr. Livesey shook hands with me through the stockade, nodded to Silver, and 
 
 
 
-## 31
-
-### The Treasure-hunt--Flint's Pointer
+## Chapter 31<br/> The Treasure-hunt--Flint's Pointer
 
 <p class="first">"Jim," said Silver when we were alone, "if I saved your life, you saved mine; and I'll not forget it.  I seen the doctor waving you to run for it--with the tail of my eye, I did; and I seen you say no, as plain as hearing. Jim, that's one to you.  This is the first glint of hope I had since the attack failed, and I owe it you.  And now, Jim, we're to go in for this here treasure-hunting, with sealed orders too, and I don't like it; and you and me must stick close, back to back like, and we'll save our necks in spite o' fate and fortune."</p>
 
@@ -2796,9 +2743,7 @@ We started, certainly; but in spite of the hot sun and the staring daylight, the
 
 
 
-## 32
-
-### The Treasure-hunt--The Voice Among the Trees
+## Chapter 32<br/> The Treasure-hunt--The Voice Among the Trees
 
 <p class="first">Partly from the damping influence of this alarm, partly to rest Silver and the sick folk, the whole party sat down as soon as they had gained the brow of the ascent.</p>
 
@@ -2897,9 +2842,7 @@ All was clear to probation.  The cache had been found and rifled; the seven hund
 
 
 
-## 33
-
-### The Fall of a Chieftain
+## Chapter 33<br/> The Fall of a Chieftain
 
 <p class="first">There never was such an overturn in this world.  Each of these six men was as though he had been struck.  But with Silver the blow passed almost instantly.  Every thought of his soul had been set full-stretch, like a racer, on that money; well, he was brought up, in a single second, dead; and he kept his head, found his temper, and changed his plan before the others had had time to realize the disappointment.</p>
 
@@ -2991,9 +2934,7 @@ What a supper I had of it that night, with all my friends around me; and what a 
 
 
 
-## 34
-
-### And Last
+## Chapter 34<br/> And Last
 
 <p class="first">The next morning we fell early to work, for the transportation of this great mass of gold near a mile by land to the beach, and thence three miles by boat to the *Hispaniola*, was a considerable task for so small a number of workmen.  The three fellows still abroad upon the island did not greatly trouble us; a single sentry on the shoulder of the hill was sufficient to ensure us against any sudden onslaught, and we thought, besides, they had had more than enough of fighting.</p>
 

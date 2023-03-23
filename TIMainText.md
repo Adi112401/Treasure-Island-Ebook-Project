@@ -58,8 +58,8 @@ Squire Trelawney, Dr. Livesey, and the rest of these gentlemen having asked me t
 
 I remember him as if it were yesterday, as he came plodding to the inn door, his sea-chest following behind him in a hand-barrow--a tall, strong, heavy, nut-brown man, his tarry pigtail falling over the shoulder of his soiled blue coat, his hands ragged and scarred, with black, broken nails, and the sabre cut across one cheek, a dirty, livid white.  I remember him looking round the cover and whistling to himself as he did so, and then breaking out in that old sea-song that he sang so often afterwards:
 
-> "Fifteen men on the dead man's chest--<br/>
-      Yo-ho-ho, and a bottle of rum!"
+<blockquote class="verse">"Fifteen men on the dead man's chest--<br/>
+      Yo-ho-ho, and a bottle of rum!"</blockquote>
       
 in the high, old tottering voice that seemed to have been tuned and broken at the capstan bars.  Then he rapped on the door with a bit of stick like a handspike that he carried, and when my father appeared, called roughly for a glass of rum.  This, when it was brought to him, he drank slowly, like a connoisseur, lingering on the taste and still looking about him at the cliffs and up at our signboard.
 
@@ -85,7 +85,7 @@ All the time he lived with us the captain made no change whatever in his dress b
 
 He was only once crossed, and that was towards the end, when my poor father was far gone in a decline that took him off.  Dr. Livesey came late one afternoon to see the patient, took a bit of dinner from my mother, and went into the parlour to smoke a pipe until his horse should come down from the hamlet, for we had no stabling at the old Benbow.  I followed him in, and I remember observing the contrast the neat, bright doctor, with his powder as white as snow and his bright, black eyes and pleasant manners, made with the coltish country folk, and above all, with that filthy, heavy, bleared scarecrow of a pirate of ours, sitting, far gone in rum, with his arms on the table.  Suddenly he--the captain, that is--began to pipe up his eternal song:
 
-<blockquote class="verse"> "Fifteen men on the dead man's chest--<br/>
+<blockquote class="verse">"Fifteen men on the dead man's chest--<br/>
         Yo-ho-ho, and a bottle of rum!<br/>
       Drink and the devil had done for the rest--<br/>
         Yo-ho-ho, and a bottle of rum!"</blockquote>
@@ -537,12 +537,12 @@ The paper had been sealed in several places with a thimble by way of seal; the v
 
 Over on the back the same hand had written this further information:
 
-> Tall tree, Spy-glass shoulder, bearing a point to the N. of N.N.E.
-> Skeleton Island E.S.E. and by E.
-> Ten feet.
-> The bar silver is in the north cache; you can find it by the trend of the east hummock, ten fathoms south of the black crag with the face on it.
-> The arms are easy found, in the sand-hill, N. point of north inlet cape, bearing E. and a quarter N.
-> *J.F.*
+<blockquote class="letter">Tall tree, Spy-glass shoulder, bearing a point to the N. of N.N.E.<br/>
+> Skeleton Island E.S.E. and by E.<br/>
+> Ten feet.<br/>
+> The bar silver is in the north cache; you can find it by the trend of the east hummock, ten fathoms south of the black crag with the face on it.<br/>
+> The arms are easy found, in the sand-hill, N. point of north inlet cape, bearing E. and a quarter N.<br/>
+> *J.F.*</blockquote>
 
 That was all; but brief as it was, and to me incomprehensible, it filled the squire and Dr. Livesey with delight.
 
@@ -875,11 +875,11 @@ All that night we were in a great bustle getting things stowed in their place, a
 
 "Aye, aye, mates," said Long John, who was standing by, with his crutch under his arm, and at once broke out in the air and words I knew so well:
 
-   > "Fifteen men on the dead man's chest--"
+<blockquote class="verse">"Fifteen men on the dead man's chest--"</blockquote>
 
 And then the whole crew bore chorus:--
 
-   > "Yo-ho-ho, and a bottle of rum!"
+<blockquote class="verse">"Yo-ho-ho, and a bottle of rum!"</blockquote>
 
 And at the third "Ho!" drove the bars before them with a will.
 
@@ -1628,7 +1628,7 @@ Gray and hunter were the first to come forward.  Well armed, they stole out of t
 
 The captain sat down to his log, and here is the beginning of the entry:
 
- > Alexander Smollett, master; David Livesey, ship's doctor; Abraham Gray, carpenter's mate; John Trelawney, owner; John Hunter and Richard Joyce, owner's servants, landsmen--being all that is left faithful of the ship's company--with stores for ten days at short rations, came ashore this day and flew British colours on the log-house in Treasure Island. Thomas Redruth, owner's servant, landsman, shot by the mutineers; James Hawkins, cabin-boy--
+<blockquote class="letter">Alexander Smollett, master; David Livesey, ship's doctor; Abraham Gray, carpenter's mate; John Trelawney, owner; John Hunter and Richard Joyce, owner's servants, landsmen--being all that is left faithful of the ship's company--with stores for ten days at short rations, came ashore this day and flew British colours on the log-house in Treasure Island. Thomas Redruth, owner's servant, landsman, shot by the mutineers; James Hawkins, cabin-boy--</blockquote>
 
 And at the same time, I was wondering over poor Jim Hawkins' fate.
 
@@ -2043,8 +2043,8 @@ One I recognized for the coxswain's, Israel Hands, that had been Flint's gunner 
 
 On shore, I could see the glow of the great camp-fire burning warmly through the shore-side trees.  Someone was singing, a dull, old, droning sailor's song, with a droop and a quaver at the end of every verse, and seemingly no end to it at all but the patience of the singer.  I had heard it on the voyage more than once and remembered these words:
 
-       > "But one man of her crew alive,<br/>
-         What put to sea with seventy-five."
+<blockquote class="verse">"But one man of her crew alive,<br/>
+         What put to sea with seventy-five."<blockquote>
 
 And I thought it was a ditty rather too dolefully appropriate for a company that had met such cruel losses in the morning.  But, indeed, from what I saw, all these buccaneers were as callous as the sea they sailed on.
 
@@ -2064,7 +2064,7 @@ I dropped upon the thwart again, none too soon, for I was near overboard.  I cou
 
 The endless ballad had come to an end at last, and the whole diminished company about the camp-fire had broken into the chorus I had heard so often:
 
-    > "Fifteen men on the dead man's chest--<br/>
+<blockquote class="verse">"Fifteen men on the dead man's chest--<br/>
          Yo-ho-ho, and a bottle of rum!<br/>
       Drink and the devil had done for the rest--<br/>
          Yo-ho-ho, and a bottle of rum!"
@@ -2750,9 +2750,9 @@ Well, thus equipped, we all set out--even the fellow with the broken head, who s
 
 As we pulled over, there was some discussion on the chart.  The red cross was, of course, far too large to be a guide; and the terms of the note on the back, as you will hear, admitted of some ambiguity.  They ran, the reader may remember, thus:
 
-   > Tall tree, Spy-glass shoulder, bearing a point to the N. of N.N.E.
-   > Skeleton Island E.S.E. and by E.
-   > Ten feet.
+<blockquote class="letter">Tall tree, Spy-glass shoulder, bearing a point to the N. of N.N.E.<br/>
+Skeleton Island E.S.E. and by E.<br/>
+Ten feet.</blockquote>
 
 A tall tree was thus the principal mark.  Now, right before us the anchorage was bounded by a plateau from two to three hundred feet high, adjoining on the north the sloping southern shoulder of the Spy-glass and rising again towards the south into the rough, cliffy eminence called the Mizzen-mast Hill.  The top of the plateau was dotted thickly with pine-trees of varying height.  Every here and there, one of a different species rose forty or fifty feet clear above its neighbours, and which of these was the particular "tall tree" of Captain Flint could only be decided on the spot, and by the readings of the compass.
 
@@ -2826,8 +2826,8 @@ Silver, as he sat, took certain bearings with his compass.
 
 Ever since they had found the skeleton and got upon this train of thought, they had spoken lower and lower, and they had almost got to whispering by now, so that the sound of their talk hardly interrupted the silence of the wood.  All of a sudden, out of the middle of the trees in front of us, a thin, high, trembling voice struck up the well-known air and words:
 
-   > "Fifteen men on the dead man's chest--<br/>
-      Yo-ho-ho, and a bottle of rum!"
+<blockquote class="verse">"Fifteen men on the dead man's chest--<br/>
+      Yo-ho-ho, and a bottle of rum!"</blockquote>
 
 I never have seen men more dreadfully affected than the pirates.  The colour went from their six faces like enchantment; some leaped to their feet, some clawed hold of others; Morgan grovelled on the ground.
 
@@ -3051,18 +3051,11 @@ I think we were all pleased to be so cheaply quit of him.
 
 Well, to make a long story short, we got a few hands on board, made a good cruise home, and the *Hispaniola* reached Bristol just as Mr. Blandly was beginning to think of fitting out her consort.  Five men only of those who had sailed returned with her.  "Drink and the devil had done for the rest," with a vengeance, although, to be sure, we were not quite in so bad a case as that other ship they sang about:
 
-   > With one man of her crew alive,<br/>
-     What put to sea with seventy-five.
+<blockquote class="verse">With one man of her crew alive,<br/>
+     What put to sea with seventy-five.</blockquote>
 
 All of us had an ample share of the treasure and used it wisely or foolishly, according to our natures. Captain Smollett is now retired from the sea.  Gray not only saved his money, but being suddenly smit with the desire to rise, also studied his profession, and he is now mate and part owner of a fine full-rigged ship, married besides, and the father of a family.  As for Ben Gunn, he got a thousand pounds, which he spent or lost in three weeks, or to be more exact, in nineteen days, for he was back begging on the twentieth.  Then he was given a lodge to keep, exactly as he had feared upon the island; and he still lives, a great favourite, though something of a butt, with the country boys, and a notable singer in church on Sundays and saints' days.
 
 Of Silver we have heard no more.  That formidable seafaring man with one leg has at last gone clean out of my life; but I dare say he met his old Negress, and perhaps still lives in comfort with her and Captain Flint.  It is to be hoped so, I suppose, for his chances of comfort in another world are very small.
 
 The bar silver and the arms still lie, for all that I know, where Flint buried them; and certainly they shall lie there for me.  Oxen and wain-ropes would not bring me back again to that accursed island; and the worst dreams that ever I have are when I hear the surf booming about its coasts or start upright in bed with the sharp voice of Captain Flint still ringing in my ears: "Pieces of eight!  Pieces of eight!"
-
-
-
-
-
-
-

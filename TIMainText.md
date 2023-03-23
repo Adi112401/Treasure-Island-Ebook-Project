@@ -40,8 +40,7 @@ Where these and their creations lie!</blockquote>
 
 
 
-# Part 1
-# The Old Buccaneer
+# Part 1<br/>The Old Buccaneer
 
 
 
@@ -558,8 +557,7 @@ That was all; but brief as it was, and to me incomprehensible, it filled the squ
 
 
 
-# Part 2
-# The Sea-cook
+# Part 2<br/>The Sea-cook
 
 
 
@@ -1117,8 +1115,7 @@ I began to feel pretty desperate at this, for I felt altogether helpless; and ye
 
 
 
-# Part 3
-# My Shore Adventure
+# Part 3<br/>My Shore Adventure
 
 
 ## 13
@@ -1375,8 +1372,7 @@ Another pause, and then, not a quarter of a mile in front of me, I beheld the Un
 
 
 
-# Part 4
-# The Stockade
+# Part 4<br/>The Stockade
 
 
 
@@ -1944,8 +1940,7 @@ The house was by this time somewhat cleared of smoke, and we saw at a glance the
 
 
 
-# Part 5
-# My Sea Adventure
+# Part 5<br/>My Sea Adventure
 
 
 
@@ -2393,8 +2388,7 @@ And one of the men left the log-house and presently returned with a lighted bran
 
 
 
-# Part 6
-# Captain Silver
+# Part 6<br/>Captain Silver
 
 
 

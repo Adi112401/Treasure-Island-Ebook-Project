@@ -1,6 +1,6 @@
 p {
-	font-family: sans-serif;
-	font-size: 12pt;
+	font-family: Georgia, Times New Roman;
+	font-size: 11pt;
 	color: black;
 	line-height: 17pt;
 	text-indent: 1.5em;
@@ -8,6 +8,15 @@ p {
 	padding-top: 0px;
 	margin-bottom: 0px;
 	margin-top: 0px;
+	hyphens: auto;
+	text-align: justify;
+}
+
+p.dedication {
+	text-indent: 0px;
+	padding-top: 5em;
+	page-break-before: always;
+	text-align: center;
 }
 
 p.first {
@@ -15,48 +24,46 @@ p.first {
 }
 
 h1 {
-	font-family: serif;
-	font-size: 24pt;
+	font-family: Georgia, Times New Roman;
+	font-size: 20pt;
 	color: black;
 	text-align: center;
-	line-height: opx;
+	line-height: 30pt;
 	hyphens: none;
+	page-break-before: always;
+	padding-top: 5em;
 }
 
 h2 {
-	font-family: serif;
-	font-size: 18pt;
+	font-family: Georgia, Times New Roman;
+	font-size: 16pt;
 	color: black;
 	text-align: center;
 	line-height: opx;
 	hyphens: none;
-}
-
-h3 {
-	font-family: serif;
-	font-size: 24pt;
-	color: black;
-	text-align: center;
-	font-weight: bold;
-	line-height: opx;
-	hyphens: none;
+	page-break-before: always;
+	padding-bottom: 3em;
+	line-height: 25pt;
 }
 
 blockquote.letter {
-	font-family: sans-serif;
-	font-size: 12pt;
+	font-family: Georgia, Times New Roman;
+	font-size: 10pt;
 	margin-left: 3em;
-	text-align: left;
 	color: black;
 	line-height: 17pt;
+	hyphens: auto;
+	text-align: justify;
+	padding-right: 7em;
 }
 
 blockquote.verse {
-	font-family: sans-serif;
-	font-size: 12pt;
+	font-family: Georgia, Times New Roman;
+	font-size: 10pt;
 	text-align: center;
 	color: black;
 	line-height: 17pt;
+	hyphens: auto;
 }
 
 img {

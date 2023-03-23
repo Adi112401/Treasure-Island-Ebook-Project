@@ -2044,7 +2044,7 @@ One I recognized for the coxswain's, Israel Hands, that had been Flint's gunner 
 On shore, I could see the glow of the great camp-fire burning warmly through the shore-side trees.  Someone was singing, a dull, old, droning sailor's song, with a droop and a quaver at the end of every verse, and seemingly no end to it at all but the patience of the singer.  I had heard it on the voyage more than once and remembered these words:
 
 <blockquote class="verse">"But one man of her crew alive,<br/>
-         What put to sea with seventy-five."<blockquote>
+         What put to sea with seventy-five."</blockquote>
 
 And I thought it was a ditty rather too dolefully appropriate for a company that had met such cruel losses in the morning.  But, indeed, from what I saw, all these buccaneers were as callous as the sea they sailed on.
 

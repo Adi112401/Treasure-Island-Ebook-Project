@@ -595,7 +595,7 @@ At that I gave up all attempts at commentary and read straight on:
 
 <blockquote class="letter"> I am in the most magnificent health and spirits, eating like a bull, sleeping like a tree, yet I shall not enjoy a moment till I hear my old tarpaulins tramping round the capstan. Seaward, ho!  Hang the treasure!  It's the glory of the sea that has turned my head.  So now, Livesey, come post; do not lose an hour, if you respect me. Let young Hawkins go at once to see his mother, with Redruth for a guard; and then both come full speed to Bristol.</blockquote>
 
-<blockquote class="letter" style="text-indent: 1.5em;">*John Trelawney*</div></blockquote>
+<blockquote class="letter" style="text-indent: 1.5em;">*John Trelawney*</blockquote>
 
 <blockquote class="letter"> Postscript--I did not tell you that Blandly, who, by the way, is to send a consort after us if we don't turn up by the end of August, had found an admirable fellow for sailing master--a stiff man, which I regret, but in all other respects a treasure.  Long John Silver unearthed a very competent man for a mate, a man named Arrow. I have a boatswain who pipes, Livesey; so things shall go man-o'-war fashion on board the good ship *Hispaniola*.</blockquote>
 

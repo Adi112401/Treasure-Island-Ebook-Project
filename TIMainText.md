@@ -535,11 +535,11 @@ The paper had been sealed in several places with a thimble by way of seal; the v
 Over on the back the same hand had written this further information:
 
 <blockquote class="letter">Tall tree, Spy-glass shoulder, bearing a point to the N. of N.N.E.<br/>
-> Skeleton Island E.S.E. and by E.<br/>
-> Ten feet.<br/>
-> The bar silver is in the north cache; you can find it by the trend of the east hummock, ten fathoms south of the black crag with the face on it.<br/>
-> The arms are easy found, in the sand-hill, N. point of north inlet cape, bearing E. and a quarter N.<br/>
-> *J.F.*</blockquote>
+Skeleton Island E.S.E. and by E.<br/>
+Ten feet.<br/>
+The bar silver is in the north cache; you can find it by the trend of the east hummock, ten fathoms south of the black crag with the face on it.<br/>
+The arms are easy found, in the sand-hill, N. point of north inlet cape, bearing E. and a quarter N.<br/>
+*J.F.*</blockquote>
 
 That was all; but brief as it was, and to me incomprehensible, it filled the squire and Dr. Livesey with delight.
 
@@ -595,17 +595,17 @@ At that I gave up all attempts at commentary and read straight on:
 
 <blockquote class="letter"> I am in the most magnificent health and spirits, eating like a bull, sleeping like a tree, yet I shall not enjoy a moment till I hear my old tarpaulins tramping round the capstan. Seaward, ho!  Hang the treasure!  It's the glory of the sea that has turned my head.  So now, Livesey, come post; do not lose an hour, if you respect me. Let young Hawkins go at once to see his mother, with Redruth for a guard; and then both come full speed to Bristol.</blockquote>
 
-<blockquote class="letter" style="text-align: right">*John Trelawney*</div></blockquote>
+<blockquote class="letter" style="text-indent: 1.5em;">*John Trelawney*</div></blockquote>
 
 <blockquote class="letter"> Postscript--I did not tell you that Blandly, who, by the way, is to send a consort after us if we don't turn up by the end of August, had found an admirable fellow for sailing master--a stiff man, which I regret, but in all other respects a treasure.  Long John Silver unearthed a very competent man for a mate, a man named Arrow. I have a boatswain who pipes, Livesey; so things shall go man-o'-war fashion on board the good ship *Hispaniola*.</blockquote>
 
 <blockquote class="letter"> I forgot to tell you that Silver is a man of substance; I know of my own knowledge that he has a banker's account, which has never been overdrawn.  He leaves his wife to manage the inn; and as she is a woman of colour, a pair of old bachelors like you and I may be excused for guessing that it is the wife, quite as much as the health, that sends him back to roving.</blockquote>
 
-<blockquote class="letter" style="text-align: right">*J. T.*</blockquote>
+<blockquote class="letter" style="text-indent: 1.5em;">*J. T.*</blockquote>
 
 <blockquote class="letter"> P.P.S.--Hawkins may stay one night with his mother.</blockquote>
 
-<blockquote class="letter" style="text-align: right">*J. T.*</blockquote>
+<blockquote class="letter" style="text-indent: 1.5em;">*J. T.*</blockquote>
 
 You can fancy the excitement into which that letter put me.  I was half beside myself with glee; and if ever I despised a man, it was old Tom Redruth, who could do nothing but grumble and lament.  Any of the under- gamekeepers would gladly have changed places with him; but such was not the squire's pleasure, and the squire's pleasure was like law among them all.  Nobody but old Redruth would have dared so much as even to grumble.
 

@@ -28,14 +28,6 @@ h3 {font-family: serif;
 	line-height: opx;
 }
 
-blockquote {
-	font-family: sans-serif;
-	font-size: 12pt;
-	margin-left: 3em;
-	color: black;
-	line-height: 17pt;
-}
-
 blockquote.letter {
 	font-family: sans-serif;
 	font-size: 12pt;

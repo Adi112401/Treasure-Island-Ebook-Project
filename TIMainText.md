@@ -3,44 +3,42 @@ Treasure Island by Robert Louis Stevenson
 
 
 
-                               To
-                             S.L.O.,
-                      an American gentleman
-             in accordance with whose classic taste
-           the following narrative has been designed,
-       it is now, in return for numerous delightful hours,
-                  and with the kindest wishes,
-                            dedicated
-             by his affectionate friend, the author.
+<blockquote class="verse">To<br/>
+S.L.O.,<br/>
+an American gentleman<br/>
+in accordance with whose classic taste<br/>
+the following narrative has been designed,<br/>
+it is now, in return for numerous delightful hours,<br/>
+and with the kindest wishes,<br/>
+dedicated<br/>
+by his affectionate friend, the author.</blockquote>
 
 
 
 
 ### To the Hesitating Purchaser
 
-          If sailor tales to sailor tunes,
-             Storm and adventure, heat and cold,
-          If schooners, islands, and maroons,
-             And buccaneers, and buried gold,
-          And all the old romance, retold
-             Exactly in the ancient way,
-          Can please, as me they pleased of old,
-             The wiser youngsters of today:
+<blockquote class="verse">If sailor tales to sailor tunes,<br/>
+Storm and adventure, heat and cold,<br/>
+If schooners, islands, and maroons,<br/>
+And buccaneers, and buried gold,<br/>
+And all the old romance, retold<br/>
+Exactly in the ancient way,<br/>
+Can please, as me they pleased of old,<br/>
+The wiser youngsters of today:</blockquote>
 
-          --So be it, and fall on!  If not,
-             If studious youth no longer crave,
-          His ancient appetites forgot,
-             Kingston, or Ballantyne the brave,
-          Or Cooper of the wood and wave:
-             So be it, also!  And may I
-          And all my pirates share the grave
-             Where these and their creations lie!
-
-
+<blockquote class="verse">--So be it, and fall on!  If not,<br/>
+If studious youth no longer crave,<br/>
+His ancient appetites forgot,<br/>
+Kingston, or Ballantyne the brave,<br/>
+Or Cooper of the wood and wave:<br/>
+So be it, also!  And may<br/>
+And all my pirates share the grave<br/>
+Where these and their creations lie!</blockquote>
 
 
 
-treasure island
+
 
 # Part 1
 # The Old Buccaneer

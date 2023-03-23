@@ -14,26 +14,32 @@ p.first {
 	text-indent: 0px;
 }
 
-h1 {font-family: serif;
+h1 {
+	font-family: serif;
 	font-size: 24pt;
 	color: black;
 	text-align: center;
 	line-height: opx;
+	hyphens: none;
 }
 
-h2 {font-family: serif;
+h2 {
+	font-family: serif;
 	font-size: 18pt;
 	color: black;
 	text-align: center;
 	line-height: opx;
+	hyphens: none;
 }
 
-h3 {font-family: serif;
+h3 {
+	font-family: serif;
 	font-size: 24pt;
 	color: black;
 	text-align: center;
 	font-weight: bold;
 	line-height: opx;
+	hyphens: none;
 }
 
 blockquote.letter {

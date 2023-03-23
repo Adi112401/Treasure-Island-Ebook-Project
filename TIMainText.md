@@ -52,7 +52,7 @@ treasure island
 ### The Old Sea-dog at the Admiral Benbow
 
 
-Squire Trelawney, Dr. Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen in the year of grace 17__ and go back to the time when my father kept the Admiral Benbow inn and the brown old seaman with the sabre cut first took up his lodging under our roof.
+<p class="first">Squire Trelawney, Dr. Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen in the year of grace 17__ and go back to the time when my father kept the Admiral Benbow inn and the brown old seaman with the sabre cut first took up his lodging under our roof.</p>
 
 ![](plate4.jpg)
 
@@ -111,7 +111,7 @@ Soon after, Dr. Livesey's horse came to the door and he rode away, but the capta
 ### Black Dog Appears and Disappears
 
 
-It was not very long after this that there occurred the first of the mysterious events that rid us at last of the captain, though not, as you will see, of his affairs.  It was a bitter cold winter, with long, hard frosts and heavy gales; and it was plain from the first that my poor father was little likely to see the spring.  He sank daily, and my mother and I had all the inn upon our hands, and were kept busy enough without paying much regard to our unpleasant guest.
+<p class="first">It was not very long after this that there occurred the first of the mysterious events that rid us at last of the captain, though not, as you will see, of his affairs.  It was a bitter cold winter, with long, hard frosts and heavy gales; and it was plain from the first that my poor father was little likely to see the spring.  He sank daily, and my mother and I had all the inn upon our hands, and were kept busy enough without paying much regard to our unpleasant guest.</p>
 
 It was one January morning, very early--a pinching, frosty morning--the cove all grey with hoar-frost, the ripple lapping softly on the stones, the sun still low and only touching the hilltops and shining far to seaward.  The captain had risen earlier than usual and set out down the beach, his cutlass swinging under the broad skirts of the old blue coat, his brass telescope under his arm, his hat tilted back upon his head.  I remember his breath hanging like smoke in his wake as he strode off, and the last sound I heard of him as he turned the big rock was a loud snort of indignation, as though his mind was still running upon Dr. Livesey.
 
@@ -215,7 +215,7 @@ And with that he went off to see my father, taking me with him by the arm.
 
 ### The Black Spot
 
-About noon I stopped at the captain's door with some cooling drinks and medicines.  He was lying very much as we had left him, only a little higher, and he seemed both weak and excited.
+<p class="first">About noon I stopped at the captain's door with some cooling drinks and medicines.  He was lying very much as we had left him, only a little higher, and he seemed both weak and excited.</p>
 
 "Jim," he said, "you're the only one here that's worth anything, and you know I've been always good to you. Never a month but I've given you a silver fourpenny for yourself.  And now you see, mate, I'm pretty low, and deserted by all; and Jim, you'll bring me one noggin of rum, now, won't you, matey?"
 
@@ -297,7 +297,7 @@ I ran to him at once, calling to my mother.  But haste was all in vain.  The cap
 
 ### The Sea-chest
 
-I lost no time, of course, in telling my mother all that I knew, and perhaps should have told her long before, and we saw ourselves at once in a difficult and dangerous position.  Some of the man's money--if he had any--was certainly due to us, but it was not likely that our captain's shipmates, above all the two specimens seen by me, Black Dog and the blind beggar, would be inclined to give up their booty in payment of the dead man's debts.  The captain's order to mount at once and ride for Doctor Livesey would have left my mother alone and unprotected, which was not to be thought of.  Indeed, it seemed impossible for either of us to remain much longer in the house; the fall of coals in the kitchen grate, the very ticking of the clock, filled us with alarms.  The neighbourhood, to our ears, seemed haunted by approaching footsteps; and what between the dead body of the captain on the parlour floor and the thought of that detestable blind beggar hovering near at hand and ready to return, there were moments when, as the saying goes, I jumped in my skin for terror.  Something must speedily be resolved upon, and it occurred to us at last to go forth together and seek help in the neighbouring hamlet.  No sooner said than done.  Bare-headed as we were, we ran out at once in the gathering evening and the frosty fog.
+<p class="first">I lost no time, of course, in telling my mother all that I knew, and perhaps should have told her long before, and we saw ourselves at once in a difficult and dangerous position.  Some of the man's money--if he had any--was certainly due to us, but it was not likely that our captain's shipmates, above all the two specimens seen by me, Black Dog and the blind beggar, would be inclined to give up their booty in payment of the dead man's debts.  The captain's order to mount at once and ride for Doctor Livesey would have left my mother alone and unprotected, which was not to be thought of.  Indeed, it seemed impossible for either of us to remain much longer in the house; the fall of coals in the kitchen grate, the very ticking of the clock, filled us with alarms.  The neighbourhood, to our ears, seemed haunted by approaching footsteps; and what between the dead body of the captain on the parlour floor and the thought of that detestable blind beggar hovering near at hand and ready to return, there were moments when, as the saying goes, I jumped in my skin for terror.  Something must speedily be resolved upon, and it occurred to us at last to go forth together and seek help in the neighbouring hamlet. No sooner said than done.  Bare-headed as we were, we ran out at once in the gathering evening and the frosty fog.</p>
 
 The hamlet lay not many hundred yards away, though out of view, on the other side of the next cove; and what greatly encouraged me, it was in an opposite direction from that whence the blind man had made his appearance and whither he had presumably returned.  We were not many minutes on the road, though we sometimes stopped to lay hold of each other and hearken.  But there was no unusual sound--nothing but the low wash of the ripple and the croaking of the inmates of the wood.
 
@@ -359,7 +359,7 @@ This was certainly the end for both of us, I thought. How I cursed the cowardice
 
 ### The Last of the Blind Man
 
-My curiosity, in a sense, was stronger than my fear, for I could not remain where I was, but crept back to the bank again, whence, sheltering my head behind a bush of broom, I might command the road before our door.  I was scarcely in position ere my enemies began to arrive, seven or eight of them, running hard, their feet beating out of time along the road and the man with the lantern some paces in front.  Three men ran together, hand in hand; and I made out, even through the mist, that the middle man of this trio was the blind beggar.  The next moment his voice showed me that I was right.
+<p class="first">My curiosity, in a sense, was stronger than my fear, for I could not remain where I was, but crept back to the bank again, whence, sheltering my head behind a bush of broom, I might command the road before our door.  I was scarcely in position ere my enemies began to arrive, seven or eight of them, running hard, their feet beating out of time along the road and the man with the lantern some paces in front.  Three men ran together, hand in hand; and I made out, even through the mist, that the middle man of this trio was the blind beggar.  The next moment his voice showed me that I was right.</p>
 
 "Down with the door!" he cried.
 
@@ -453,7 +453,7 @@ As soon as I was mounted, holding on to Dogger's belt, the supervisor gave the w
 
 ### The Captain's Papers
 
-We rode hard all the way till we drew up before Dr. Livesey's door.  The house was all dark to the front.
+<p class="first">We rode hard all the way till we drew up before Dr. Livesey's door.  The house was all dark to the front.</p>
 
 Mr. Dance told me to jump down and knock, and Dogger gave me a stirrup to descend by.  The door was opened almost at once by the maid.
 
@@ -569,7 +569,7 @@ That was all; but brief as it was, and to me incomprehensible, it filled the squ
 
 ### I Go to Bristol
 
-It was longer than the squire imagined ere we were ready for the sea, and none of our first plans--not even Dr. Livesey's, of keeping me beside him--could be carried out as we intended.  The doctor had to go to London for a physician to take charge of his practice; the squire was hard at work at Bristol; and I lived on at the hall under the charge of old Redruth, the gamekeeper, almost a prisoner, but full of sea-dreams and the most charming anticipations of strange islands and adventures.  I brooded by the hour together over the map, all the details of which I well remembered. Sitting by the fire in the housekeeper's room, I approached that island in my fancy from every possible direction; I explored every acre of its surface; I climbed a thousand times to that tall hill they call the Spy-glass, and from the top enjoyed the most wonderful and changing prospects.  Sometimes the isle was thick with savages, with whom we fought, sometimes full of dangerous animals that hunted us, but in all my fancies nothing occurred to me so strange and tragic as our actual adventures.
+<p class="first">It was longer than the squire imagined ere we were ready for the sea, and none of our first plans--not even Dr. Livesey's, of keeping me beside him--could be carried out as we intended.  The doctor had to go to London for a physician to take charge of his practice; the squire was hard at work at Bristol; and I lived on at the hall under the charge of old Redruth, the gamekeeper, almost a prisoner, but full of sea-dreams and the most charming anticipations of strange islands and adventures.  I brooded by the hour together over the map, all the details of which I well remembered. Sitting by the fire in the housekeeper's room, I approached that island in my fancy from every possible direction; I explored every acre of its surface; I climbed a thousand times to that tall hill they call the Spy-glass, and from the top enjoyed the most wonderful and changing prospects.  Sometimes the isle was thick with savages, with whom we fought, sometimes full of dangerous animals that hunted us, but in all my fancies nothing occurred to me so strange and tragic as our actual adventures.</p>
 
 So the weeks passed on, till one fine day there came a letter addressed to Dr. Livesey, with this addition, "To be opened, in the case of his absence, by Tom Redruth or young Hawkins."  Obeying this order, we found, or rather I found--for the gamekeeper was a poor hand at reading anything but print--the following important news:
 
@@ -643,7 +643,7 @@ While I was still in this delightful dream, we came suddenly in front of a large
 
 ### At the Sign of the Spy-glass
 
-When I had done breakfasting the squire gave me a note addressed to John Silver, at the sign of the Spy-glass, and told me I should easily find the place by following the line of the docks and keeping a bright lookout for a little tavern with a large brass telescope for sign.  I set off, overjoyed at this opportunity to see some more of the ships and seamen, and picked my way among a great crowd of people and carts and bales, for the dock was now at its busiest, until I found the tavern in question.
+<p class="first">When I had done breakfasting the squire gave me a note addressed to John Silver, at the sign of the Spy-glass, and told me I should easily find the place by following the line of the docks and keeping a bright lookout for a little tavern with a large brass telescope for sign.  I set off, overjoyed at this opportunity to see some more of the ships and seamen, and picked my way among a great crowd of people and carts and bales, for the dock was now at its busiest, until I found the tavern in question.</p>
 
 It was a bright enough little place of entertainment. The sign was newly painted; the windows had neat red curtains; the floor was cleanly sanded.  There was a street on each side and an open door on both, which made the large, low room pretty clear to see in, in spite of clouds of tobacco smoke.
 
@@ -745,7 +745,7 @@ The two gentlemen regretted that Black Dog had got away, but we all agreed there
 
 ### Powder and Arms
 
-The *Hispaniola* lay some way out, and we went under the figureheads and round the sterns of many other ships, and their cables sometimes grated underneath our keel, and sometimes swung above us.  At last, however, we got alongside, and were met and saluted as we stepped aboard by the mate, Mr. Arrow, a brown old sailor with earrings in his ears and a squint.  He and the squire were very thick and friendly, but I soon observed that things were not the same between Mr. Trelawney and the captain.
+<p class="first">The *Hispaniola* lay some way out, and we went under the figureheads and round the sterns of many other ships, and their cables sometimes grated underneath our keel, and sometimes swung above us.  At last, however, we got alongside, and were met and saluted as we stepped aboard by the mate, Mr. Arrow, a brown old sailor with earrings in his ears and a squint.  He and the squire were very thick and friendly, but I soon observed that things were not the same between Mr. Trelawney and the captain.</p>
 
 This last was a sharp-looking man who seemed angry with everything on board and was soon to tell us why, for we had hardly got down into the cabin when a sailor followed us.
 
@@ -867,7 +867,7 @@ I assure you I was quite of the squire's way of thinking, and hated the captain 
 
 ### The Voyage
 
-All that night we were in a great bustle getting things stowed in their place, and boatfuls of the squire's friends, Mr. Blandly and the like, coming off to wish him a good voyage and a safe return.  We never had a night at the Admiral Benbow when I had half the work; and I was dog-tired when, a little before dawn, the boatswain sounded his pipe and the crew began to man the capstan-bars.  I might have been twice as weary, yet I would not have left the deck, all was so new and interesting to me--the brief commands, the shrill note of the whistle, the men bustling to their places in the glimmer of the ship's lanterns.
+<p class="first">All that night we were in a great bustle getting things stowed in their place, and boatfuls of the squire's friends, Mr. Blandly and the like, coming off to wish him a good voyage and a safe return.  We never had a night at the Admiral Benbow when I had half the work; and I was dog-tired when, a little before dawn, the boatswain sounded his pipe and the crew began to man the capstan-bars.  I might have been twice as weary, yet I would not have left the deck, all was so new and interesting to me--the brief commands, the shrill note of the whistle, the men bustling to their places in the glimmer of the ship's lanterns.</p>
 
 "Now, Barbecue, tip us a stave," cried one voice.
 
@@ -877,7 +877,7 @@ All that night we were in a great bustle getting things stowed in their place, a
 
 <blockquote class="verse">"Fifteen men on the dead man's chest--"</blockquote>
 
-And then the whole crew bore chorus:--
+And then the whole crew bore chorus:
 
 <blockquote class="verse">"Yo-ho-ho, and a bottle of rum!"</blockquote>
 
@@ -943,7 +943,7 @@ In I got bodily into the apple barrel, and found there was scarce an apple left;
 
 ### What I Heard in the Apple Barrel
 
-"No, not I," said Silver.  "Flint was cap'n; I was quartermaster, along of my timber leg.  The same broadside I lost my leg, old Pew lost his deadlights. It was a master surgeon, him that ampytated me--out of college and all--Latin by the bucket, and what not; but he was hanged like a dog, and sun-dried like the rest, at Corso Castle.  That was Roberts' men, that was, and comed of changing names to their ships--*Royal Fortune* and so on.  Now, what a ship was christened, so let her stay, I says.  So it was with the *Cassandra*, as brought us all safe home from Malabar, after England took the viceroy of the Indies; so it was with the old *Walrus*, Flint's old ship, as I've seen amuck with the red blood and fit to sink with gold."
+<p class="first">"No, not I," said Silver.  "Flint was cap'n; I was quartermaster, along of my timber leg.  The same broadside I lost my leg, old Pew lost his deadlights. It was a master surgeon, him that ampytated me--out of college and all--Latin by the bucket, and what not; but he was hanged like a dog, and sun-dried like the rest, at Corso Castle.  That was Roberts' men, that was, and comed of changing names to their ships--*Royal Fortune* and so on.  Now, what a ship was christened, so let her stay, I says.  So it was with the *Cassandra*, as brought us all safe home from Malabar, after England took the viceroy of the Indies; so it was with the old *Walrus*, Flint's old ship, as I've seen amuck with the red blood and fit to sink with gold."</p>
 
 "Ah!" cried another voice, that of the youngest hand on board, and evidently full of admiration.  "He was the flower of the flock, was Flint!"
 
@@ -1027,7 +1027,7 @@ Just then a sort of brightness fell upon me in the barrel, and looking up, I fou
 
 ### Council of War
 
-There was a great rush of feet across the deck.  I could hear people tumbling up from the cabin and the forecastle, and slipping in an instant outside my barrel, I dived behind the fore-sail, made a double towards the stern, and came out upon the open deck in time to join Hunter and Dr. Livesey in the rush for the weather bow.
+<p class="first">There was a great rush of feet across the deck.  I could hear people tumbling up from the cabin and the forecastle, and slipping in an instant outside my barrel, I dived behind the fore-sail, made a double towards the stern, and came out upon the open deck in time to join Hunter and Dr. Livesey in the rush for the weather bow.</p>
 
 There all hands were already congregated.  A belt of fog had lifted almost simultaneously with the appearance of the moon.  Away to the south-west of us we saw two low hills, about a couple of miles apart, and rising behind one of them a third and higher hill, whose peak was still buried in the fog.  All three seemed sharp and conical in figure.
 
@@ -1127,7 +1127,7 @@ I began to feel pretty desperate at this, for I felt altogether helpless; and ye
 
 ### How My Shore Adventure Began
 
-The appearance of the island when I came on deck next morning was altogether changed.  Although the breeze had now utterly ceased, we had made a great deal of way during the night and were now lying becalmed about half a mile to the south-east of the low eastern coast. Grey-coloured woods covered a large part of the surface.  This even tint was indeed broken up by streaks of yellow sand-break in the lower lands, and by many tall trees of the pine family, out-topping the others--some singly, some in clumps; but the general colouring was uniform and sad.  The hills ran up clear above the vegetation in spires of naked rock.  All were strangely shaped, and the Spy-glass, which was by three or four hundred feet the tallest on the island, was likewise the strangest in configuration, running up sheer from almost every side and then suddenly cut off at the top like a pedestal to put a statue on.
+<p class="first">The appearance of the island when I came on deck next morning was altogether changed.  Although the breeze had now utterly ceased, we had made a great deal of way during the night and were now lying becalmed about half a mile to the south-east of the low eastern coast. Grey-coloured woods covered a large part of the surface.  This even tint was indeed broken up by streaks of yellow sand-break in the lower lands, and by many tall trees of the pine family, out-topping the others--some singly, some in clumps; but the general colouring was uniform and sad.  The hills ran up clear above the vegetation in spires of naked rock.  All were strangely shaped, and the Spy-glass, which was by three or four hundred feet the tallest on the island, was likewise the strangest in configuration, running up sheer from almost every side and then suddenly cut off at the top like a pedestal to put a statue on.</p>
 
 The *Hispaniola* was rolling scuppers under in the ocean swell.  The booms were tearing at the blocks, the rudder was banging to and fro, and the whole ship creaking, groaning, and jumping like a manufactory.  I had to cling tight to the backstay, and the world turned giddily before my eyes, for though I was a good enough sailor when there was way on, this standing still and being rolled about like a bottle was a thing I never learned to stand without a qualm or so, above all in the morning, on an empty stomach.
 
@@ -1191,7 +1191,7 @@ But you may suppose I paid no heed; jumping, ducking, and breaking through, I ra
 
 ### The First Blow
 
-I was so pleased at having given the slip to Long John that I began to enjoy myself and look around me with some interest on the strange land that I was in.
+<p class="first">I was so pleased at having given the slip to Long John that I began to enjoy myself and look around me with some interest on the strange land that I was in.</p>
 
 I had crossed a marshy tract full of willows, bulrushes, and odd, outlandish, swampy trees; and I had now come out upon the skirts of an open piece of undulating, sandy country, about a mile long, dotted with a few pines and a great number of contorted trees, not unlike the oak in growth, but pale in the foliage, like willows.  On the far side of the open stood one of the hills, with two quaint, craggy peaks shining vividly in the sun.
 
@@ -1259,7 +1259,7 @@ And here a fresh alarm brought me to a standstill with a thumping heart.
 
 ### The Man of the Island
 
-From the side of the hill, which was here steep and stony, a spout of gravel was dislodged and fell rattling and bounding through the trees.  My eyes turned instinctively in that direction, and I saw a figure leap with great rapidity behind the trunk of a pine.  What it was, whether bear or man or monkey, I could in no wise tell.  It seemed dark and shaggy; more I knew not.  But the terror of this new apparition brought me to a stand.
+<p class="first">From the side of the hill, which was here steep and stony, a spout of gravel was dislodged and fell rattling and bounding through the trees.  My eyes turned instinctively in that direction, and I saw a figure leap with great rapidity behind the trunk of a pine.  What it was, whether bear or man or monkey, I could in no wise tell.  It seemed dark and shaggy; more I knew not.  But the terror of this new apparition brought me to a stand.</p>
 
 I was now, it seemed, cut off upon both sides; behind me the murderers, before me this lurking nondescript. And immediately I began to prefer the dangers that I knew to those I knew not.  Silver himself appeared less terrible in contrast with this creature of the woods, and I turned on my heel, and looking sharply behind me over my shoulder, began to retrace my steps in the direction of the boats.
 
@@ -1386,7 +1386,7 @@ Another pause, and then, not a quarter of a mile in front of me, I beheld the Un
 
 ### Narrative Continued by the Doctor: How the Ship Was Abandoned
 
-It was about half past one--three bells in the sea phrase--that the two boats went ashore from the *Hispaniola*.  The captain, the squire, and I were talking matters over in the cabin.  Had there been a breath of wind, we should have fallen on the six mutineers who were left aboard with us, slipped our cable, and away to sea.  But the wind was wanting; and to complete our helplessness, down came Hunter with the news that Jim Hawkins had slipped into a boat and was gone ashore with the rest.
+<p class="first">It was about half past one--three bells in the sea phrase--that the two boats went ashore from the *Hispaniola*.  The captain, the squire, and I were talking matters over in the cabin.  Had there been a breath of wind, we should have fallen on the six mutineers who were left aboard with us, slipped our cable, and away to sea.  But the wind was wanting; and to complete our helplessness, down came Hunter with the news that Jim Hawkins had slipped into a boat and was gone ashore with the rest.</p>
 
 It never occurred to us to doubt Jim Hawkins, but we were alarmed for his safety.  With the men in the temper they were in, it seemed an even chance if we should see the lad again.  We ran on deck.  The pitch was bubbling in the seams; the nasty stench of the place turned me sick; if ever a man smelt fever and dysentery, it was in that abominable anchorage.  The six scoundrels were sitting grumbling under a sail in the forecastle; ashore we could see the gigs made fast and a man sitting in each, hard by where the river runs in.  One of them was whistling "Lillibullero."
 
@@ -1466,7 +1466,7 @@ We were clear out of the ship, but not yet ashore in our stockade.
 
 ### Narrative Continued by the Doctor: The Jolly-boat's Last Trip
 
-This fifth trip was quite different from any of the others.  In the first place, the little gallipot of a boat that we were in was gravely overloaded.  Five grown men, and three of them--Trelawney, Redruth, and the captain--over six feet high, was already more than she was meant to carry.  Add to that the powder, pork, and bread-bags.  The gunwale was lipping astern. Several times we shipped a little water, and my breeches and the tails of my coat were all soaking wet before we had gone a hundred yards.
+<p class="first">This fifth trip was quite different from any of the others.  In the first place, the little gallipot of a boat that we were in was gravely overloaded.  Five grown men, and three of them--Trelawney, Redruth, and the captain--over six feet high, was already more than she was meant to carry.  Add to that the powder, pork, and bread-bags.  The gunwale was lipping astern. Several times we shipped a little water, and my breeches and the tails of my coat were all soaking wet before we had gone a hundred yards.</p>
 
 The captain made us trim the boat, and we got her to lie a little more evenly.  All the same, we were afraid to breathe.
 
@@ -1554,7 +1554,7 @@ With all this in our minds, we waded ashore as fast as we could, leaving behind 
 
 ### Narrative Continued by the Doctor: End of the First Day's Fighting
 
-We made our best speed across the strip of wood that now divided us from the stockade, and at every step we took the voices of the buccaneers rang nearer.  Soon we could hear their footfalls as they ran and the cracking of the branches as they breasted across a bit of thicket.
+<p class="first">We made our best speed across the strip of wood that now divided us from the stockade, and at every step we took the voices of the buccaneers rang nearer.  Soon we could hear their footfalls as they ran and the cracking of the branches as they breasted across a bit of thicket.</p>
 
 I began to see we should have a brush for it in earnest and looked to my priming.
 
@@ -1646,7 +1646,7 @@ And I ran to the door in time to see Jim Hawkins, safe and sound, come climbing 
 
 ### Narrative Resumed by Jim Hawkins: The Garrison in the Stockade
 
-As soon as Ben Gunn saw the colours he came to a halt, stopped me by the arm, and sat down.
+<p class="first">As soon as Ben Gunn saw the colours he came to a halt, stopped me by the arm, and sat down.</p>
 
 "Now," said he, "there's your friends, sure enough."
 
@@ -1736,7 +1736,7 @@ And at that, up I jumped, and rubbing my eyes, ran to a loophole in the wall.
 
 ### Silver's Embassy
 
-Sure enough, there were two men just outside the stockade, one of them waving a white cloth, the other, no less a person than Silver himself, standing placidly by.
+<p class="first">Sure enough, there were two men just outside the stockade, one of them waving a white cloth, the other, no less a person than Silver himself, standing placidly by.</p>
 
 It was still quite early, and the coldest morning that I think I ever was abroad in--a chill that pierced into the marrow.  The sky was bright and cloudless overhead, and the tops of the trees shone rosily in the sun.  But where Silver stood with his lieutenant, all was still in shadow, and they waded knee-deep in a low white vapour that had crawled during the night out of the morass.  The chill and the vapour taken together told a poor tale of the island.  It was plainly a damp, feverish, unhealthy spot.
 
@@ -1838,7 +1838,7 @@ And with a dreadful oath he stumbled off, ploughed down the sand, was helped acr
 
 ### The Attack
 
-As soon as Silver disappeared, the captain, who had been closely watching him, turned towards the interior of the house and found not a man of us at his post but Gray.  It was the first time we had ever seen him angry.
+<p class="first">As soon as Silver disappeared, the captain, who had been closely watching him, turned towards the interior of the house and found not a man of us at his post but Gray.  It was the first time we had ever seen him angry.</p>
 
 "Quarters!" he roared.  And then, as we all slunk back to our places, "Gray," he said, "I'll put your name in the log; you've stood by your duty like a seaman.  Mr. Trelawney, I'm surprised at you, sir.  Doctor, I thought you had worn the king's coat!  If that was how you served at Fontenoy, sir, you'd have been better in your berth."
 
@@ -1955,7 +1955,7 @@ The house was by this time somewhat cleared of smoke, and we saw at a glance the
 
 ### How My Sea Adventure Began
 
-There was no return of the mutineers--not so much as another shot out of the woods.  They had "got their rations for that day," as the captain put it, and we had the place to ourselves and a quiet time to overhaul the wounded and get dinner.  Squire and I cooked outside in spite of the danger, and even outside we could hardly tell what we were at, for horror of the loud groans that reached us from the doctor's patients.
+<p class="first">There was no return of the mutineers--not so much as another shot out of the woods.  They had "got their rations for that day," as the captain put it, and we had the place to ourselves and a quiet time to overhaul the wounded and get dinner.  Squire and I cooked outside in spite of the danger, and even outside we could hardly tell what we were at, for horror of the loud groans that reached us from the doctor's patients.</p>
 
 Out of the eight men who had fallen in the action, only three still breathed--that one of the pirates who had been shot at the loophole, Hunter, and Captain Smollett; and of these, the first two were as good as dead; the mutineer indeed died under the doctor's knife, and Hunter, do what we could, never recovered consciousness in this world.  He lingered all day, breathing loudly like the old buccaneer at home in his apoplectic fit, but the bones of his chest had been crushed by the blow and his skull fractured in falling, and some time in the following night, without sign or sound, he went to his Maker.
 
@@ -2023,7 +2023,7 @@ The ebb had already run some time, and I had to wade through a long belt of swam
 
 ### The Ebb-tide Runs
 
-The coracle--as I had ample reason to know before I was done with her--was a very safe boat for a person of my height and weight, both buoyant and clever in a sea- way; but she was the most cross-grained, lop-sided craft to manage.  Do as you pleased, she always made more leeway than anything else, and turning round and round was the manoeuvre she was best at.  Even Ben Gunn himself has admitted that she was "queer to handle till you knew her way."
+<p class="first">The coracle--as I had ample reason to know before I was done with her--was a very safe boat for a person of my height and weight, both buoyant and clever in a sea- way; but she was the most cross-grained, lop-sided craft to manage.  Do as you pleased, she always made more leeway than anything else, and turning round and round was the manoeuvre she was best at.  Even Ben Gunn himself has admitted that she was "queer to handle till you knew her way."</p>
 
 Certainly I did not know her way.  She turned in every direction but the one I was bound to go; the most part of the time we were broadside on, and I am very sure I never should have made the ship at all but for the tide.  By good fortune, paddle as I pleased, the tide was still sweeping me down; and there lay the *Hispaniola* right in the fairway, hardly to be missed.
 
@@ -2087,7 +2087,7 @@ So I must have lain for hours, continually beaten to and fro upon the billows, n
 
 ### The Cruise of the Coracle
 
-It was broad day when I awoke and found myself tossing at the south-west end of Treasure Island.  The sun was up but was still hid from me behind the great bulk of the Spy-glass, which on this side descended almost to the sea in formidable cliffs.
+<p class="first">It was broad day when I awoke and found myself tossing at the south-west end of Treasure Island.  The sun was up but was still hid from me behind the great bulk of the Spy-glass, which on this side descended almost to the sea in formidable cliffs.</p>
 
 Haulbowline Head and Mizzen-mast Hill were at my elbow, the hill bare and dark, the head bound with cliffs forty or fifty feet high and fringed with great masses of fallen rock.  I was scarce a quarter of a mile to seaward, and it was my first thought to paddle in and land.
 
@@ -2151,7 +2151,7 @@ And then, of a sudden, I began to comprehend.  I had scarce time to think--scarc
 
 ### I Strike the Jolly Roger
 
-I had scarce gained a position on the bowsprit when the flying jib flapped and filled upon the other tack, with a report like a gun.  The schooner trembled to her keel under the reverse, but next moment, the other sails still drawing, the jib flapped back again and hung idle.
+<p class="first">I had scarce gained a position on the bowsprit when the flying jib flapped and filled upon the other tack, with a report like a gun.  The schooner trembled to her keel under the reverse, but next moment, the other sails still drawing, the jib flapped back again and hung idle.</p>
 
 This had nearly tossed me off into the sea; and now I lost no time, crawled back along the bowsprit, and tumbled head foremost on the deck.
 
@@ -2231,7 +2231,7 @@ I was greatly elated with my new command, and pleased with the bright, sunshiny 
 
 ### Israel Hands
 
-The wind, serving us to a desire, now hauled into the west. We could run so much the easier from the north-east corner of the island to the mouth of the North Inlet.  Only, as we had no power to anchor and dared not beach her till the tide had flowed a good deal farther, time hung on our hands. The coxswain told me how to lay the ship to; after a good many trials I succeeded, and we both sat in silence over another meal.
+<p class="first">The wind, serving us to a desire, now hauled into the west. We could run so much the easier from the north-east corner of the island to the mouth of the North Inlet.  Only, as we had no power to anchor and dared not beach her till the tide had flowed a good deal farther, time hung on our hands. The coxswain told me how to lay the ship to; after a good many trials I succeeded, and we both sat in silence over another meal.</p>
 
 "Cap'n," said he at length with that same uncomfortable smile, "here's my old shipmate, O'Brien; s'pose you was to heave him overboard.  I ain't partic'lar as a rule, and I don't take no blame for settling his hash, but I don't reckon him ornamental now, do you?"
 
@@ -2323,7 +2323,7 @@ I was drinking in his words and smiling away, as conceited as a cock upon a wall
 
 ### "Pieces of Eight"
 
-Owing to the cant of the vessel, the masts hung far out over the water, and from my perch on the cross-trees I had nothing below me but the surface of the bay. Hands, who was not so far up, was in consequence nearer to the ship and fell between me and the bulwarks.  He rose once to the surface in a lather of foam and blood and then sank again for good.  As the water settled, I could see him lying huddled together on the clean, bright sand in the shadow of the vessel's sides.  A fish or two whipped past his body.  Sometimes, by the quivering of the water, he appeared to move a little, as if he were trying to rise.  But he was dead enough, for all that, being both shot and drowned, and was food for fish in the very place where he had designed my slaughter.
+<p class="first">Owing to the cant of the vessel, the masts hung far out over the water, and from my perch on the cross-trees I had nothing below me but the surface of the bay. Hands, who was not so far up, was in consequence nearer to the ship and fell between me and the bulwarks.  He rose once to the surface in a lather of foam and blood and then sank again for good.  As the water settled, I could see him lying huddled together on the clean, bright sand in the shadow of the vessel's sides.  A fish or two whipped past his body.  Sometimes, by the quivering of the water, he appeared to move a little, as if he were trying to rise.  But he was dead enough, for all that, being both shot and drowned, and was food for fish in the very place where he had designed my slaughter.</p>
 
 I was no sooner certain of this than I began to feel sick, faint, and terrified.  The hot blood was running over my back and chest.  The dirk, where it had pinned my shoulder to the mast, seemed to burn like a hot iron; yet it was not so much these real sufferings that distressed me, for these, it seemed to me, I could bear without a murmur; it was the horror I had upon my mind of falling from the cross-trees into that still green water, beside the body of the coxswain.
 
@@ -2404,7 +2404,7 @@ And one of the men left the log-house and presently returned with a lighted bran
 
 ### In the Enemy's Camp
 
-The red glare of the torch, lighting up the interior of the block house, showed me the worst of my apprehensions realized.  The pirates were in possession of the house and stores: there was the cask of cognac, there were the pork and bread, as before, and what tenfold increased my horror, not a sign of any prisoner.  I could only judge that all had perished, and my heart smote me sorely that I had not been there to perish with them.
+<p class="first">The red glare of the torch, lighting up the interior of the block house, showed me the worst of my apprehensions realized.  The pirates were in possession of the house and stores: there was the cask of cognac, there were the pork and bread, as before, and what tenfold increased my horror, not a sign of any prisoner.  I could only judge that all had perished, and my heart smote me sorely that I had not been there to perish with them.</p>
 
 There were six of the buccaneers, all told; not another man was left alive.  Five of them were on their feet, flushed and swollen, suddenly called out of the first sleep of drunkenness.  The sixth had only risen upon his elbow; he was deadly pale, and the blood-stained bandage round his head told that he had recently been wounded, and still more recently dressed.  I remembered the man who had been shot and had run back among the woods in the great attack, and doubted not that this was he.
 
@@ -2520,7 +2520,7 @@ And he took another swallow of the brandy, shaking his great fair head like a ma
 
 ### The Black Spot Again
 
-The council of buccaneers had lasted some time, when one of them re-entered the house, and with a repetition of the same salute, which had in my eyes an ironical air, begged for a moment's loan of the torch.  Silver briefly agreed, and this emissary retired again, leaving us together in the dark.
+<p class="first">The council of buccaneers had lasted some time, when one of them re-entered the house, and with a repetition of the same salute, which had in my eyes an ironical air, begged for a moment's loan of the torch.  Silver briefly agreed, and this emissary retired again, leaving us together in the dark.</p>
 
 "There's a breeze coming, Jim," said Silver, who had by this time adopted quite a friendly and familiar tone.
 
@@ -2612,7 +2612,7 @@ It was long ere I could close an eye, and heaven knows I had matter enough for t
 
 ### On Parole
 
-I was wakened--indeed, we were all wakened, for I could see even the sentinel shake himself together from where he had fallen against the door-post--by a clear, hearty voice hailing us from the margin of the wood:
+<p class="first">I was wakened--indeed, we were all wakened, for I could see even the sentinel shake himself together from where he had fallen against the door-post--by a clear, hearty voice hailing us from the margin of the wood:</p>
 
 "Block house, ahoy!" it cried.  "Here's the doctor."
 
@@ -2724,7 +2724,7 @@ And Dr. Livesey shook hands with me through the stockade, nodded to Silver, and 
 
 ### The Treasure-hunt--Flint's Pointer
 
-"Jim," said Silver when we were alone, "if I saved your life, you saved mine; and I'll not forget it.  I seen the doctor waving you to run for it--with the tail of my eye, I did; and I seen you say no, as plain as hearing. Jim, that's one to you.  This is the first glint of hope I had since the attack failed, and I owe it you.  And now, Jim, we're to go in for this here treasure-hunting, with sealed orders too, and I don't like it; and you and me must stick close, back to back like, and we'll save our necks in spite o' fate and fortune."
+<p class="first">"Jim," said Silver when we were alone, "if I saved your life, you saved mine; and I'll not forget it.  I seen the doctor waving you to run for it--with the tail of my eye, I did; and I seen you say no, as plain as hearing. Jim, that's one to you.  This is the first glint of hope I had since the attack failed, and I owe it you.  And now, Jim, we're to go in for this here treasure-hunting, with sealed orders too, and I don't like it; and you and me must stick close, back to back like, and we'll save our necks in spite o' fate and fortune."</p>
 
 Just then a man hailed us from the fire that breakfast was ready, and we were soon seated here and there about the sand over biscuit and fried junk.  They had lit a fire fit to roast an ox, and it was now grown so hot that they could only approach it from the windward, and even there not without precaution.  In the same wasteful spirit, they had cooked, I suppose, three times more than we could eat; and one of them, with an empty laugh, threw what was left into the fire, which blazed and roared again over this unusual fuel.  I never in my life saw men so careless of the morrow; hand to mouth is the only word that can describe their way of doing; and what with wasted food and sleeping sentries, though they were bold enough for a brush and be done with it, I could see their entire unfitness for anything like a prolonged campaign.
 
@@ -2808,7 +2808,7 @@ We started, certainly; but in spite of the hot sun and the staring daylight, the
 
 ### The Treasure-hunt--The Voice Among the Trees
 
-Partly from the damping influence of this alarm, partly to rest Silver and the sick folk, the whole party sat down as soon as they had gained the brow of the ascent.
+<p class="first">Partly from the damping influence of this alarm, partly to rest Silver and the sick folk, the whole party sat down as soon as they had gained the brow of the ascent.</p>
 
 The plateau being somewhat tilted towards the west, this spot on which we had paused commanded a wide prospect on either hand.  Before us, over the tree- tops, we beheld the Cape of the Woods fringed with surf; behind, we not only looked down upon the anchorage and Skeleton Island, but saw--clear across the spit and the eastern lowlands--a great field of open sea upon the east.  Sheer above us rose the Spy- glass, here dotted with single pines, there black with precipices.  There was no sound but that of the distant breakers, mounting from all round, and the chirp of countless insects in the brush.  Not a man, not a sail, upon the sea; the very largeness of the view increased the sense of solitude.
 
@@ -2909,7 +2909,7 @@ All was clear to probation.  The cache had been found and rifled; the seven hund
 
 ### The Fall of a Chieftain
 
-There never was such an overturn in this world.  Each of these six men was as though he had been struck.  But with Silver the blow passed almost instantly.  Every thought of his soul had been set full-stretch, like a racer, on that money; well, he was brought up, in a single second, dead; and he kept his head, found his temper, and changed his plan before the others had had time to realize the disappointment.
+<p class="first">There never was such an overturn in this world.  Each of these six men was as though he had been struck.  But with Silver the blow passed almost instantly.  Every thought of his soul had been set full-stretch, like a racer, on that money; well, he was brought up, in a single second, dead; and he kept his head, found his temper, and changed his plan before the others had had time to realize the disappointment.</p>
 
 "Jim," he whispered, "take that, and stand by for trouble."
 
@@ -3003,7 +3003,7 @@ What a supper I had of it that night, with all my friends around me; and what a 
 
 ### And Last
 
-The next morning we fell early to work, for the transportation of this great mass of gold near a mile by land to the beach, and thence three miles by boat to the *Hispaniola*, was a considerable task for so small a number of workmen.  The three fellows still abroad upon the island did not greatly trouble us; a single sentry on the shoulder of the hill was sufficient to ensure us against any sudden onslaught, and we thought, besides, they had had more than enough of fighting.
+<p class="first">The next morning we fell early to work, for the transportation of this great mass of gold near a mile by land to the beach, and thence three miles by boat to the *Hispaniola*, was a considerable task for so small a number of workmen.  The three fellows still abroad upon the island did not greatly trouble us; a single sentry on the shoulder of the hill was sufficient to ensure us against any sudden onslaught, and we thought, besides, they had had more than enough of fighting.</p>
 
 Therefore the work was pushed on briskly.  Gray and Ben Gunn came and went with the boat, while the rest during their absences piled treasure on the beach.  Two of the bars, slung in a rope's end, made a good load for a grown man--one that he was glad to walk slowly with. For my part, as I was not much use at carrying, I was kept busy all day in the cave packing the minted money into bread-bags.
 

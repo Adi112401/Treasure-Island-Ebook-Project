@@ -32,7 +32,7 @@ If studious youth no longer crave,<br/>
 His ancient appetites forgot,<br/>
 Kingston, or Ballantyne the brave,<br/>
 Or Cooper of the wood and wave:<br/>
-So be it, also!  And may<br/>
+So be it, also!  And may I <br/>
 And all my pirates share the grave<br/>
 Where these and their creations lie!</blockquote>
 

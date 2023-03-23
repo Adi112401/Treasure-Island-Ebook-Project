@@ -2067,7 +2067,7 @@ The endless ballad had come to an end at last, and the whole diminished company 
 <blockquote class="verse">"Fifteen men on the dead man's chest--<br/>
          Yo-ho-ho, and a bottle of rum!<br/>
       Drink and the devil had done for the rest--<br/>
-         Yo-ho-ho, and a bottle of rum!"
+         Yo-ho-ho, and a bottle of rum!"</blockquote>
 
 I was just thinking how busy drink and the devil were at that very moment in the cabin of the *Hispaniola*, when I was surprised by a sudden lurch of the coracle. At the same moment, she yawed sharply and seemed to change her course.  The speed in the meantime had strangely increased.
 

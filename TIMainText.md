@@ -85,10 +85,10 @@ All the time he lived with us the captain made no change whatever in his dress b
 
 He was only once crossed, and that was towards the end, when my poor father was far gone in a decline that took him off.  Dr. Livesey came late one afternoon to see the patient, took a bit of dinner from my mother, and went into the parlour to smoke a pipe until his horse should come down from the hamlet, for we had no stabling at the old Benbow.  I followed him in, and I remember observing the contrast the neat, bright doctor, with his powder as white as snow and his bright, black eyes and pleasant manners, made with the coltish country folk, and above all, with that filthy, heavy, bleared scarecrow of a pirate of ours, sitting, far gone in rum, with his arms on the table.  Suddenly he--the captain, that is--began to pipe up his eternal song:
 
-   > "Fifteen men on the dead man's chest--<br/>
+<blockquote class="verse"> "Fifteen men on the dead man's chest--<br/>
         Yo-ho-ho, and a bottle of rum!<br/>
       Drink and the devil had done for the rest--<br/>
-        Yo-ho-ho, and a bottle of rum!"
+        Yo-ho-ho, and a bottle of rum!"</blockquote>
 
 At first I had supposed "the dead man's chest" to be that identical big box of his upstairs in the front room, and the thought had been mingled in my nightmares with that of the one-legged seafaring man.  But by this time we had all long ceased to pay any particular notice to the song; it was new, that night, to nobody but Dr. Livesey, and on him I observed it did not produce an agreeable effect, for he looked up for a moment quite angrily before he went on with his talk to old Taylor, the gardener, on a new cure for the rheumatics.  In the meantime, the captain gradually brightened up at his own music, and at last flapped his hand upon the table before him in a way we all knew to mean silence.  The voices stopped at once, all but Dr. Livesey's; he went on as before speaking clear and kind and drawing briskly at his pipe between every word or two.  The captain glared at him for a while, flapped his hand again, glared still harder, and at last broke out with a villainous, low oath, "Silence, there, between decks!"
 
@@ -573,13 +573,13 @@ It was longer than the squire imagined ere we were ready for the sea, and none o
 
 So the weeks passed on, till one fine day there came a letter addressed to Dr. Livesey, with this addition, "To be opened, in the case of his absence, by Tom Redruth or young Hawkins."  Obeying this order, we found, or rather I found--for the gamekeeper was a poor hand at reading anything but print--the following important news:
 
-> <blockquote class="letter"> *Old Anchor Inn, Bristol, March 1, 17--*</blockquote>
+<blockquote class="letter"> *Old Anchor Inn, Bristol, March 1, 17--*</blockquote>
 
-> <blockquote class="letter"> Dear Livesey--As I do not know whether you are at the hall or still in London, I send this in double to both places.</blockquote>
+<blockquote class="letter"> Dear Livesey--As I do not know whether you are at the hall or still in London, I send this in double to both places.</blockquote>
 
-> <blockquote class="letter"> The ship is bought and fitted.  She lies at anchor, ready for sea.  You never imagined a sweeter schooner--a child might sail her--two hundred tons; name, *Hispaniola*.</blockquote>
+<blockquote class="letter"> The ship is bought and fitted.  She lies at anchor, ready for sea.  You never imagined a sweeter schooner--a child might sail her--two hundred tons; name, *Hispaniola*.</blockquote>
 
-> <blockquote class="letter"> I got her through my old friend, Blandly, who has proved himself throughout the most surprising trump.  The admirable fellow literally slaved in my interest, and so, I may say, did everyone in Bristol, as soon as they got wind of the port we sailed for--treasure, I mean.</blockquote>
+<blockquote class="letter"> I got her through my old friend, Blandly, who has proved himself throughout the most surprising trump.  The admirable fellow literally slaved in my interest, and so, I may say, did everyone in Bristol, as soon as they got wind of the port we sailed for--treasure, I mean.</blockquote>
 
 "Redruth," said I, interrupting the letter, "Dr. Livesey will not like that.  The squire has been talking, after all."
 
@@ -587,29 +587,29 @@ So the weeks passed on, till one fine day there came a letter addressed to Dr. L
 
 At that I gave up all attempts at commentary and read straight on:
 
-> <blockquote class="letter"> Blandly himself found the *Hispaniola*, and by the most admirable management got her for the merest trifle.  There is a class of men in Bristol monstrously prejudiced against Blandly.  They go the length of declaring that this honest creature would do anything for money, that the *Hispaniola* belonged to him, and that he sold it me absurdly high--the most transparent calumnies.  None of them dare, however, to deny the merits of the ship. So far there was not a hitch. The workpeople, to be sure--riggers and what not--were most annoyingly slow; but time cured that.  It was the crew that troubled me.</blockquote>
+<blockquote class="letter"> Blandly himself found the *Hispaniola*, and by the most admirable management got her for the merest trifle.  There is a class of men in Bristol monstrously prejudiced against Blandly.  They go the length of declaring that this honest creature would do anything for money, that the *Hispaniola* belonged to him, and that he sold it me absurdly high--the most transparent calumnies.  None of them dare, however, to deny the merits of the ship. So far there was not a hitch. The workpeople, to be sure--riggers and what not--were most annoyingly slow; but time cured that.  It was the crew that troubled me.</blockquote>
 
-> <blockquote class="letter"> I wished a round score of men--in case of natives, buccaneers, or the odious French--and I had the worry of the deuce itself to find so much as half a dozen, till the most remarkable stroke of fortune brought me the very man that I required.</blockquote>
+<blockquote class="letter"> I wished a round score of men--in case of natives, buccaneers, or the odious French--and I had the worry of the deuce itself to find so much as half a dozen, till the most remarkable stroke of fortune brought me the very man that I required.</blockquote>
 
-> <blockquote class="letter"> I was standing on the dock, when, by the merest accident, I fell in talk with him. I found he was an old sailor, kept a public-house, knew all the seafaring men in Bristol, had lost his health ashore, and wanted a good berth as cook to get to sea again.  He had hobbled down there that morning, he said, to get a smell of the salt. I was monstrously touched--so would you have been--and, out of pure pity, I engaged him on the spot to be ship's cook. Long John Silver, he is called, and has lost a leg; but that I regarded as a recommendation, since he lost it in his country's service, under the immortal Hawke. He has no pension, Livesey.  Imagine the abominable age we live in!</blockquote>
+<blockquote class="letter"> I was standing on the dock, when, by the merest accident, I fell in talk with him. I found he was an old sailor, kept a public-house, knew all the seafaring men in Bristol, had lost his health ashore, and wanted a good berth as cook to get to sea again.  He had hobbled down there that morning, he said, to get a smell of the salt. I was monstrously touched--so would you have been--and, out of pure pity, I engaged him on the spot to be ship's cook. Long John Silver, he is called, and has lost a leg; but that I regarded as a recommendation, since he lost it in his country's service, under the immortal Hawke. He has no pension, Livesey.  Imagine the abominable age we live in!</blockquote>
 
-> <blockquote class="letter"> Well, sir, I thought I had only found a cook, but it was a crew I had discovered. Between Silver and myself we got together in a few days a company of the toughest old salts imaginable--not pretty to look at, but fellows, by their faces, of the most indomitable spirit.  I declare we could fight a frigate.</blockquote>
+<blockquote class="letter"> Well, sir, I thought I had only found a cook, but it was a crew I had discovered. Between Silver and myself we got together in a few days a company of the toughest old salts imaginable--not pretty to look at, but fellows, by their faces, of the most indomitable spirit.  I declare we could fight a frigate.</blockquote>
 
-> <blockquote class="letter"> Long John even got rid of two out of the six or seven I had already engaged. He showed me in a moment that they were just the sort of fresh-water swabs we had to fear in an adventure of importance.</blockquote>
+<blockquote class="letter"> Long John even got rid of two out of the six or seven I had already engaged. He showed me in a moment that they were just the sort of fresh-water swabs we had to fear in an adventure of importance.</blockquote>
 
-> <blockquote class="letter"> I am in the most magnificent health and spirits, eating like a bull, sleeping like a tree, yet I shall not enjoy a moment till I hear my old tarpaulins tramping round the capstan. Seaward, ho!  Hang the treasure!  It's the glory of the sea that has turned my head.  So now, Livesey, come post; do not lose an hour, if you respect me. Let young Hawkins go at once to see his mother, with Redruth for a guard; and then both come full speed to Bristol.</blockquote>
+<blockquote class="letter"> I am in the most magnificent health and spirits, eating like a bull, sleeping like a tree, yet I shall not enjoy a moment till I hear my old tarpaulins tramping round the capstan. Seaward, ho!  Hang the treasure!  It's the glory of the sea that has turned my head.  So now, Livesey, come post; do not lose an hour, if you respect me. Let young Hawkins go at once to see his mother, with Redruth for a guard; and then both come full speed to Bristol.</blockquote>
 
-> <blockquote class="letter" style="text-align: right">*John Trelawney*</div></blockquote>
+<blockquote class="letter" style="text-align: right">*John Trelawney*</div></blockquote>
 
-> <blockquote class="letter"> Postscript--I did not tell you that Blandly, who, by the way, is to send a consort after us if we don't turn up by the end of August, had found an admirable fellow for sailing master--a stiff man, which I regret, but in all other respects a treasure.  Long John Silver unearthed a very competent man for a mate, a man named Arrow. I have a boatswain who pipes, Livesey; so things shall go man-o'-war fashion on board the good ship *Hispaniola*.</blockquote>
+<blockquote class="letter"> Postscript--I did not tell you that Blandly, who, by the way, is to send a consort after us if we don't turn up by the end of August, had found an admirable fellow for sailing master--a stiff man, which I regret, but in all other respects a treasure.  Long John Silver unearthed a very competent man for a mate, a man named Arrow. I have a boatswain who pipes, Livesey; so things shall go man-o'-war fashion on board the good ship *Hispaniola*.</blockquote>
 
-> <blockquote class="letter"> I forgot to tell you that Silver is a man of substance; I know of my own knowledge that he has a banker's account, which has never been overdrawn.  He leaves his wife to manage the inn; and as she is a woman of colour, a pair of old bachelors like you and I may be excused for guessing that it is the wife, quite as much as the health, that sends him back to roving.</blockquote>
+<blockquote class="letter"> I forgot to tell you that Silver is a man of substance; I know of my own knowledge that he has a banker's account, which has never been overdrawn.  He leaves his wife to manage the inn; and as she is a woman of colour, a pair of old bachelors like you and I may be excused for guessing that it is the wife, quite as much as the health, that sends him back to roving.</blockquote>
 
-> <blockquote class="letter" style="text-align: right">*J. T.*</blockquote>
+<blockquote class="letter" style="text-align: right">*J. T.*</blockquote>
 
-> <blockquote class="letter"> P.P.S.--Hawkins may stay one night with his mother.</blockquote>
+<blockquote class="letter"> P.P.S.--Hawkins may stay one night with his mother.</blockquote>
 
-> <blockquote class="letter" style="text-align: right">*J. T.*</blockquote>
+<blockquote class="letter" style="text-align: right">*J. T.*</blockquote>
 
 You can fancy the excitement into which that letter put me.  I was half beside myself with glee; and if ever I despised a man, it was old Tom Redruth, who could do nothing but grumble and lament.  Any of the under- gamekeepers would gladly have changed places with him; but such was not the squire's pleasure, and the squire's pleasure was like law among them all.  Nobody but old Redruth would have dared so much as even to grumble.
 

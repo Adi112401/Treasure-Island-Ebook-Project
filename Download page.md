@@ -13,6 +13,6 @@ Cheers, buccaneers!
 
 ## Our Booty
 
-**[Download Epub](https://lmgtfy.app/?q=How+to+Download+an+Audiobook)**
+**[Download Epub](https://github.com/Adi112401/Treasure-Island-Ebook-Project/blob/main/Treasure-Island.epub)**
 
 **[Download Audiobook](https://lmgtfy.app/?q=How+to+Download+an+Audiobook)**

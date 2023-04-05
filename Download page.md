@@ -9,4 +9,10 @@ by Robert Louis Stevenson.
 Cheers, buccaneers!
 
 
-![]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy](https://tenor.com/5xz4.gif](https://github.com/Adi112401/Treasure-Island-Ebook-Project/blob/main/hahaha-laughing.gif))
+![](https://github.com/Adi112401/Treasure-Island-Ebook-Project/blob/main/hahaha-laughing.gif)
+
+## Our Booty
+
+**[Download Epub](https://lmgtfy.app/?q=How+to+Download+an+Audiobook)**
+
+**[Download Audiobook](https://lmgtfy.app/?q=How+to+Download+an+Audiobook)**

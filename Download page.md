@@ -15,4 +15,4 @@ Cheers, buccaneers!
 
 **[Download Epub](https://github.com/Adi112401/Treasure-Island-Ebook-Project/raw/main/Treasure-Island.epub)**
 
-**[Download Audiobook](https://lmgtfy.app/?q=How+to+Download+an+Audiobook)**
+**[Download Audiobook](https://github.com/Adi112401/Treasure-Island-Ebook-Project/raw/main/Treasure%20Island.mp3)**

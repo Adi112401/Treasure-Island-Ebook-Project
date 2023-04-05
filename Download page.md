@@ -1,6 +1,5 @@
-# PUB607-23
+# PUB607-23 | Pirate Press
 
-## Pirate Press
 
 After sailing the Project Gutenberg Sea, facing the Pandoc and Regex beasts, and scaping the most dreadful H4N and SM58 mics,
 we bring you two shinning treasures: an accessible epub and a trilingual audiobook of *Treasure Island*,

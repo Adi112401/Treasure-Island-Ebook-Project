@@ -1,8 +1,8 @@
 # PUB607-23 | Pirate Press
 
 
-After sailing the Project Gutenberg Sea, facing the Pandoc and Regex beasts, and scaping the most dreadful H4N and SM58 mics,
-we bring you two shinning treasures: an accessible epub and a trilingual audiobook of *Treasure Island*,
+After sailing the Project Gutenberg Sea, facing the Pandoc and Regex beasts, and escaping the most dreadful H4N and SM58 mics,
+we bring you two shining treasures: an accessible epub and a trilingual audiobook of *Treasure Island*,
 by Robert Louis Stevenson.
 
 Cheers, buccaneers!
